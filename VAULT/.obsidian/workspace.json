@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Allainé & Theuriau, 2004).md",
+                "file": "1. TUTORIAL OBSIDIAN - syntax.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "RS_(Allainé & Theuriau, 2004)"
+              "title": "1. TUTORIAL OBSIDIAN - syntax"
             }
           }
         ]
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 383.5
   },
   "right": {
     "id": "d488d831c3a62677",
@@ -238,20 +238,20 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "4531bb62010837d4",
   "lastOpenFiles": [
     "1. TUTORIAL OBSIDIAN - syntax.md",
+    "📌 TO DO LIST.md",
     "2. TUTORIAL OBSIDIAN - Import articles from ZOTERO.md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Allainé & Theuriau, 2004).md",
     "IMAGE/Pasted image 20250127145648.png",
     "IMAGE",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allainé & Theuriau, 2004).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Allainé & Theuriau, 2004).md",
     "🔨 TEMPLATE/zotero_article_template.md",
     "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Bonnet et al., 2017).md",
     "🔨 TEMPLATE/reading_sheet_article.md",
@@ -259,7 +259,6 @@
     "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Allainé & Theuriau, 2004)/image-7-x58-y63.png",
     "👩🏽‍🔬 LITTERATURE_NOTES/OTHER/Evolution and selection of quantiative traits (Walsh and Lynch, 2018)/Lecture 12.md",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allaine, 2000).md",
-    "📌 TO DO LIST.md",
     "🔨 TEMPLATE/daily_notes.md",
     "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Rézouki et al., 2016).md",
     "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Oke et al., 2020).md",
