@@ -1,0 +1,5 @@
+/* reading mode */
+.markdown-preview-view :is(p,ul,ol) {
+    text-align: justify;
+    text-justify: inter-word;   
+}

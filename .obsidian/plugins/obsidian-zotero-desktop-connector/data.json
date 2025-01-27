@@ -1,0 +1,27 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "👩🏽‍🔬 LITTERATURE_NOTES",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Pandoc",
+      "format": "pandoc",
+      "brackets": true
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "CREATE READING SHEET (ARTICLE)",
+      "outputPathTemplate": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/{% set authorCount = creators | length %} {% if authorCount == 1 %}({{creators[0].lastName}}, {{date | format(\"YYYY\")}}){% elif authorCount == 2 %}({{creators[0].lastName}} & {{creators[1].lastName}}, {{date | format(\"YYYY\")}}){% else %}({{creators[0].lastName}} et al., {{date | format(\"YYYY\")}}){% endif %}.md",
+      "imageOutputPathTemplate": "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/{% set authorCount = creators | length %} {% if authorCount == 1 %}({{creators[0].lastName}}, {{date | format(\"YYYY\")}}){% elif authorCount == 2 %}({{creators[0].lastName}} & {{creators[1].lastName}}, {{date | format(\"YYYY\")}}){% else %}({{creators[0].lastName}} et al., {{date | format(\"YYYY\")}}){% endif %}/",
+      "imageBaseNameTemplate": "image",
+      "cslStyle": "apa",
+      "templatePath": "🔨 TEMPLATE/zotero_article_template.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "last-imported-note"
+}

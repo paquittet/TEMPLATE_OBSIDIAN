@@ -1,0 +1,18 @@
+{
+  "pathToPandoc": "C:/Users/quittet/AppData/Local/Pandoc/pandoc.exe",
+  "tooltipDelay": 400,
+  "zoteroGroups": [
+    {
+      "id": 1,
+      "name": "Ma bibliothèque",
+      "lastUpdate": 1737983212115
+    }
+  ],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "enableCiteKeyCompletion": true,
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl",
+  "pullFromZotero": true,
+  "showCitekeyTooltips": false
+}
