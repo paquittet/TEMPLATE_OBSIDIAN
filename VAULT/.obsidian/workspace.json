@@ -8,32 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "465de7930bd3ce89",
+            "id": "4531bb62010837d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allainé & Theuriau, 2004).md",
-                "mode": "source",
+                "file": "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Allainé & Theuriau, 2004).md",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "(Allainé & Theuriau, 2004)"
-            }
-          },
-          {
-            "id": "5734469c4255a31e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "RS_(Allainé & Theuriau, 2004)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +105,7 @@
       {
         "id": "7e86dd62be2ccb99",
         "type": "tabs",
-        "dimension": 35.34653465346535,
+        "dimension": 37.12871287128713,
         "children": [
           {
             "id": "0ea0048bc809f2f5",
@@ -216,16 +205,21 @@
       {
         "id": "9ca924f79b85a124",
         "type": "tabs",
-        "dimension": 64.65346534653466,
+        "dimension": 62.87128712871287,
         "children": [
           {
             "id": "0b37c0fc3366d6b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "📌 TO DO LIST.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "📌 TO DO LIST"
             }
           }
         ]
@@ -250,55 +244,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5734469c4255a31e",
+  "active": "4531bb62010837d4",
   "lastOpenFiles": [
-    "README.md",
+    "1. TUTORIAL OBSIDIAN - syntax.md",
+    "2. TUTORIAL OBSIDIAN - Import articles from ZOTERO.md",
+    "IMAGE/Pasted image 20250127145648.png",
+    "IMAGE",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allainé & Theuriau, 2004).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Allainé & Theuriau, 2004).md",
+    "🔨 TEMPLATE/zotero_article_template.md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Bonnet et al., 2017).md",
+    "🔨 TEMPLATE/reading_sheet_article.md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Allainé & Theuriau, 2004)/image-undefined-x53-y601.png",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Allainé & Theuriau, 2004)/image-7-x58-y63.png",
+    "👩🏽‍🔬 LITTERATURE_NOTES/OTHER/Evolution and selection of quantiative traits (Walsh and Lynch, 2018)/Lecture 12.md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allaine, 2000).md",
+    "📌 TO DO LIST.md",
+    "🔨 TEMPLATE/daily_notes.md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Rézouki et al., 2016).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Oke et al., 2020).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Gimenez & Gaillard, 2018).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Dingemanse et al., 2021).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(de Villemereuil, 2018).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET",
+    "👩🏽‍🔬 LITTERATURE_NOTES/OTHER/Evolution and selection of quantiative traits (Walsh and Lynch, 2018)",
+    "👩🏽‍🔬 LITTERATURE_NOTES/OTHER",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wolf & Wade, 2009)/image-undefined-x80-y637.png",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wolf & Wade, 2009)/image-undefined-x56-y416.png",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wolf & Wade, 2009)/image-7-x312-y49.png",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wolf & Wade, 2009)/image-6-x41-y594.png",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wolf & Wade, 2009)/image-6-x40-y326.png",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wolf & Wade, 2009)/image-4-x41-y592.png",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wolf & Wade, 2009)/image-3-x54-y634.png",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wolf & Wade, 2009)",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Rézouki et al., 2016)",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Plard et al., 2021)",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Papaïx et al., 2010)",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Munar‐Delgado et al., 2023)",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Moore et al., 2019)",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Wolf & Wade, 2009).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Wilson et al., 2005).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Serbezov et al., 2010).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Santostefano et al., 2024).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Rézouki et al., 2016).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Plard et al., 2021).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Papaïx et al., 2010).md",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Oke et al., 2020).md",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Munar‐Delgado et al., 2023).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Munar‐Delgado et al., 2023)/image-undefined-x40-y563.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Munar‐Delgado et al., 2023)",
-    "📖 JOURNAL/📌 TO DO LIST.md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Moore et al., 2019).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Lardy et al., 2015).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Lardy et al., 2013).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Hadfield, 2008).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Hadfield et al., 2011).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Gimenez & Gaillard, 2018).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Ferrandiz-Rovira et al., 2016).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allainé & Theuriau, 2004).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Dingemanse et al., 2021).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(de Villemereuil, 2018).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Cohas et al., 2008).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Bonnet et al., 2017).md",
-    "Untitled 1.md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Berger et al., 2018).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allaine, 2000).md",
-    "🔨 TEMPLATE/zotero_article_template.md",
-    "CHEATSHEET ADMINISTRATIF/ordre de mission UM.md",
-    "🦌 CERVUS SOFTWARE/Littérature CERVUS marmotte.md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Rézouki et al., 2016).md",
-    "🎇THESE/REUNIONS 📆/12-06-24 Christophe LBBE.md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Rézouki et al., 2016).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Rézouki et al., 2016)/image-undefined-x55-y592.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Rézouki et al., 2016)/image-9-x51-y242.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Rézouki et al., 2016)/image-7-x49-y192.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Rézouki et al., 2016)/image-7-x44-y499.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Rézouki et al., 2016)",
-    "🎇THESE/REUNIONS 📆/16-01-2025 Réunion hebdomadaire.md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Cohas et al., 2008)/image-undefined-x35-y508.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Cohas et al., 2008)/image-4-x408-y217.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Cohas et al., 2008)/image-4-x313-y196.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Cohas et al., 2008)/image-6-x50-y424.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Cohas et al., 2008)/image-5-x38-y567.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Cohas et al., 2008)",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Ferrandiz-Rovira et al., 2016)",
-    "Untitled",
     "Untitled.canvas",
-    "🦌 CERVUS SOFTWARE",
-    "BIBLIOTHEQUE_ZOTERO.json",
-    "🎤 CONFERENCES/Untitled",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Reid & Keller, 2009)",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Moore et al., 2019)",
     "Schémas modèles et paramètres calculés.canvas",
     "👩🏽‍🔬 LITTERATURE_NOTES/0.Article to read.canvas"
   ]
