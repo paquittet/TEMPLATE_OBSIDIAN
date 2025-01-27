@@ -1,0 +1,22 @@
+{
+  "cssTheme": "Wikipedia",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "reduce_space_betweet_header",
+    "reduce_space_betwee_header_list",
+    "center_text_canvas",
+    "unread_as_red",
+    "justify_text",
+    "No_shadow_title_snippet",
+    "no side decoration",
+    "theme_nier_custom",
+    "reduce_space_between_list"
+  ],
+  "accentColor": "#3f55fd",
+  "textFontFamily": "Consolas",
+  "monospaceFontFamily": "Consolas",
+  "interfaceFontFamily": "Consolas,Lucida Console",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "nativeMenus": false
+}

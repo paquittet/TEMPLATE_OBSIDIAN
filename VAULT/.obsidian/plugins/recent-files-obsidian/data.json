@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "ordre de mission UM",
       "path": "CHEATSHEET ADMINISTRATIF/ordre de mission UM.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "(Allaine, 2000)",
       "path": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allaine, 2000).md"
-    },
-    {
-      "basename": "zotero_article_template",
-      "path": "🔨 TEMPLATE/zotero_article_template.md"
     }
   ],
   "omittedPaths": [],
