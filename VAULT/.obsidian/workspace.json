@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TUTORIAL OBSIDIAN - Import articles from ZOTERO.md",
+                "file": "1. TUTORIAL OBSIDIAN - syntax.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. TUTORIAL OBSIDIAN - Import articles from ZOTERO"
+              "title": "1. TUTORIAL OBSIDIAN - syntax"
             }
           }
         ]
@@ -245,8 +245,8 @@
   },
   "active": "4531bb62010837d4",
   "lastOpenFiles": [
-    "1. TUTORIAL OBSIDIAN - syntax.md",
     "2. TUTORIAL OBSIDIAN - Import articles from ZOTERO.md",
+    "1. TUTORIAL OBSIDIAN - syntax.md",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allainé & Theuriau, 2004).md",
     "📌 TO DO LIST.md",
     "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Allainé & Theuriau, 2004).md",
