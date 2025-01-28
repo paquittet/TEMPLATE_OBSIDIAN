@@ -64,5 +64,6 @@
   "minimal-style@@p-spacing": "0.5em",
   "minimal-style@@minimal-strike-lists": true,
   "minimal-style@@base@@light": "#FFFFFF",
-  "wikipedia-theme@@hide-callout-icons": false
+  "wikipedia-theme@@hide-callout-icons": false,
+  "wikipedia-theme@@hide-callout-title": false
 }
