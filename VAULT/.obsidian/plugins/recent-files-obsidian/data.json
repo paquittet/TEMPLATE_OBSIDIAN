@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "methylation",
+      "path": "📕 Glossary/methylation.md"
+    },
+    {
+      "basename": "zotero_article_template",
+      "path": "🔨 TEMPLATE/zotero_article_template.md"
+    },
+    {
       "basename": "(Allainé & Theuriau, 2004)",
       "path": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allainé & Theuriau, 2004).md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "(Bonnet et al., 2017)",
       "path": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Bonnet et al., 2017).md"
-    },
-    {
-      "basename": "zotero_article_template",
-      "path": "🔨 TEMPLATE/zotero_article_template.md"
     },
     {
       "basename": "📈 DATAVIEW_ZOTERO",
@@ -75,10 +79,6 @@
     {
       "basename": "Littérature CERVUS marmotte",
       "path": "🦌 CERVUS SOFTWARE/Littérature CERVUS marmotte.md"
-    },
-    {
-      "basename": "23-01-2025 Réunion hebdomadaire",
-      "path": "🎇THESE/REUNIONS 📆/23-01-2025 Réunion hebdomadaire.md"
     }
   ],
   "omittedPaths": [],

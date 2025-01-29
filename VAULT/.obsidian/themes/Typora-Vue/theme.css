@@ -211,16 +211,7 @@ thead {
 }
 /*Header END*/
 
-/*Cursor line BEGIN*/
-.cm-active.cm-line{
-	background:var(--cus-highlight-cursor-line) !important;
-}
-/*Cursor line END*/
 
-/*Hover Font color BEGIN*/
-.menu-item:hover:not(.is-disabled):not(.is-label), .suggestion-item.is-selected{
-	color: hsl(var(--interactive-accent-hsl));
-}
 /*Hover Font color END*/
 
 /*Navigator File BEGIN*/
