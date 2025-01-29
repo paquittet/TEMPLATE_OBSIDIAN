@@ -10,7 +10,8 @@
     "No_shadow_title_snippet",
     "no side decoration",
     "theme_nier_custom",
-    "reduce_space_between_list"
+    "reduce_space_between_list",
+    "100_width"
   ],
   "accentColor": "#3f55fd",
   "textFontFamily": "Consolas",

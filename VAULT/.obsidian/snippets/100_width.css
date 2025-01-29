@@ -1,0 +1,25 @@
+/* make page full width */
+body {
+    --file-line-width: 80% !important;
+}
+
+/* make image full size inside a callout */
+.markdown-rendered .callout-content img, .cm-contentContainer .callout-content img {
+  float: none !important;
+  margin: 0px !important;
+  border: none !important;
+  background-color: transparent !important;
+  display: block !important;
+  width: 80% !important;
+}
+
+/* tables */
+.markdown-rendered table {
+  margin: 1em 0 !important;
+  max-width: 100% !important;
+}
+
+/* dataview tables */
+.table-view-table > tbody > tr > td {
+  max-width: 90% !important;
+}
