@@ -11,10 +11,13 @@
     "no side decoration",
     "theme_nier_custom",
     "reduce_space_between_list",
-    "100_width"
+    "list_features",
+    "line_beneath_h1_embeded_title",
+    "increase_space_between_list",
+    "image_features"
   ],
   "accentColor": "#3f55fd",
-  "textFontFamily": "Consolas",
+  "textFontFamily": "American Typewriter",
   "monospaceFontFamily": "Consolas",
   "interfaceFontFamily": "Consolas,Lucida Console",
   "baseFontSize": 16,

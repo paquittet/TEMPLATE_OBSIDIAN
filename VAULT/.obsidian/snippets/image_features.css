@@ -1,0 +1,24 @@
+/* Centrage et redimensionnement des images dans les callouts */
+.markdown-rendered img, 
+.cm-content img, 
+.markdown-preview-view img, /* Ajout pour le mode HyperMD */
+.cm-s-obsidian img { /* Ajout pour le mode HyperMD */
+  display: block!important; /* Bloquer l'affichage pour éviter tout alignement par défaut */
+  margin: 1em auto !important; /* Centrage horizontal */
+  border: 1px solid black !important; /* Bordure autour de l'image */
+  background-color: transparent !important; /* Arrière-plan transparent */
+  max-width: 80% !important; /* Assurez-vous que l'image ne dépasse pas la largeur de la fenêtre */
+  height: auto !important; /* Maintenir le ratio d'aspect original */
+  text-align: center !important; /* Assurer que le texte autour soit centré */
+}
+
+/* Redimensionnement des images avec une largeur spécifiée comme |500 */
+.markdown-rendered img[src*="|"] {
+  width: auto !important;
+  height: auto !important;
+}
+
+.markdown-rendered img[src*="|"] {
+  /* Cette règle va prendre la valeur après le | et l'utiliser comme largeur en pixels */
+  width: attr(src, regex('.*\\|([0-9]+).*', 1))px !important;
+}

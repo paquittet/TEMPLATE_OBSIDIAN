@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👩🏽‍🔬 LITTERATURE_NOTES/📈 DATAVIEW_ZOTERO.md",
+                "file": "1. TUTORIAL OBSIDIAN - syntax.md",
                 "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "📈 DATAVIEW_ZOTERO"
+              "title": "1. TUTORIAL OBSIDIAN - syntax"
             }
           }
         ]
@@ -247,6 +247,7 @@
   "lastOpenFiles": [
     "📕 Glossary/methylation.md",
     "🔨 TEMPLATE/zotero_article_template.md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/📈 DATAVIEW_ZOTERO.md",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allainé & Theuriau, 2004).md",
     "1. TUTORIAL OBSIDIAN - syntax.md",
     "2. TUTORIAL OBSIDIAN - Import articles from ZOTERO.md",
@@ -290,7 +291,6 @@
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Plard et al., 2021).md",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Papaïx et al., 2010).md",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Oke et al., 2020).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Munar‐Delgado et al., 2023).md",
     "Untitled.canvas",
     "Schémas modèles et paramètres calculés.canvas",
     "👩🏽‍🔬 LITTERATURE_NOTES/0.Article to read.canvas"

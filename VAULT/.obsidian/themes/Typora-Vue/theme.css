@@ -4,6 +4,46 @@
 
 
 
+/* make page full width */
+body {
+  --file-line-width: 85% !important;
+  --image-width: 500px !important;
+  --img-max-width: 80%!important;
+}
+
+.cm-content {
+    max-width: 100% !important;
+}
+
+/* Centrage et redimensionnement des images dans les callouts */
+.markdown-rendered .callout-content img, 
+.cm-contentContainer .callout-content img, 
+.cm-content img {
+  display: block !important; /* Bloquer l'affichage pour éviter tout alignement par défaut */
+  margin: 1em auto !important;
+  border: none !important; /* Pas de bordure autour de l'image */
+  background-color: transparent !important; /* Arrière-plan transparent */
+  width: 1em auto !important; /* Prendre toute la largeur disponible (vous pouvez ajuster la valeur selon vos besoins) */
+  max-width: 40% !important; /* Taille maximale de l'image en fonction de l'espace disponible */
+  height: auto !important; /* Maintenir le ratio d'aspect original */
+  max-height: 40% !important;
+  text-align: center !important; /* Assurer que le texte autour soit centré */
+}
+
+
+
+/* tables */
+.markdown-rendered table {
+  margin: 1em auto !important;
+  max-width: 100% !important;
+  text-align: center !important;
+}
+
+/* dataview tables */
+.table-view-table > tbody > tr > td {
+  max-width: 90% !important;
+}
+
 
 
 /* The primary color is #42b983 or #42b883.*/
@@ -135,6 +175,10 @@ thead {
     top: 1px;
 }
 
+
+
+
+
 .markdown-preview-view h2:hover::before, .HyperMD-header .cm-header-2:hover::before{
     content: 'h2';
     position: absolute;
@@ -193,6 +237,13 @@ thead {
     padding: 0px 2px;
     border-radius: 3px;
     top: -11px;
+}
+
+/* Add horizontal black line beneath h1 headings in all modes */
+.markdown-preview-view h1 {
+    border-bottom: 1px solid black; /* Black underline */
+    padding-bottom: 5px; /* Adds spacing between text and line */
+    display: block; /* Ensures it spans full width */
 }
 
 .markdown-preview-view h6:hover::before, .HyperMD-header .cm-header-6:hover::before{

@@ -1,22 +1,37 @@
 /* make page full width */
 body {
-    --file-line-width: 80% !important;
+  --file-line-width: 85% !important;
+  --image-width: 500px !important;
+  --img-max-width: 100% !important;
 }
 
-/* make image full size inside a callout */
-.markdown-rendered .callout-content img, .cm-contentContainer .callout-content img {
-  float: none !important;
-  margin: 0px !important;
-  border: none !important;
-  background-color: transparent !important;
-  display: block !important;
-  width: 80% !important;
+.cm-content {
+    max-width: 100% !important;
 }
+
+/* Centrage et redimensionnement des images dans les callouts */
+.markdown-rendered .callout-content img, 
+.cm-contentContainer .callout-content img, 
+.cm-content img {
+  display: block !important; /* Bloquer l'affichage pour éviter tout alignement par défaut */
+  margin: 0 auto !important; /* Centrer horizontalement */
+  border: none !important; /* Pas de bordure autour de l'image */
+  background-color: transparent !important; /* Arrière-plan transparent */
+  width: 100% !important; /* Prendre toute la largeur disponible (vous pouvez ajuster la valeur selon vos besoins) */
+  max-width: 100% !important; /* Taille maximale de l'image en fonction de l'espace disponible */
+  height: auto !important; /* Maintenir le ratio d'aspect original */
+  text-align: center !important; /* Assurer que le texte autour soit centré */
+}
+
+
+
+
 
 /* tables */
 .markdown-rendered table {
-  margin: 1em 0 !important;
+  margin: 1em auto !important;
   max-width: 100% !important;
+  text-align: center !important;
 }
 
 /* dataview tables */

@@ -1,0 +1,25 @@
+.markdown-rendered p {
+margin-bottom: 0px;
+}
+
+ul.has-list-bullet {
+margin-top: 0.5em;  */ space between top of the list and trext
+}
+
+/* Augmenter l'écart entre les éléments de la liste dans le Reading Mode */
+.markdown-preview-view ul {
+  margin-bottom: 0.5em !important; /* Espace supplémentaire après chaque élément de la liste */
+}
+
+.markdown-preview-view li {
+  margin-bottom: 1em !important; /* Espace entre les éléments de la liste */
+}
+
+/* Augmenter l'écart entre les éléments de la liste dans le HyperMD Editing Mode */
+.cm-s-obsidian ul {
+  margin-bottom: 1em !important; /* Espace supplémentaire après chaque élément de la liste */
+}
+
+.cm-s-obsidian li {
+  margin-bottom: 10em !important; /* Espace entre les éléments de la liste */
+}

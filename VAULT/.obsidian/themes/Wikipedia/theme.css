@@ -379,7 +379,7 @@ margin: 0px; /* close gaps in infobox when info callout title is hidden */
   border: none;
   background-color: transparent;
   display: block;
-  width: 100%;
+  width: 80%;
 }
 .callout {
   overflow: hidden;
