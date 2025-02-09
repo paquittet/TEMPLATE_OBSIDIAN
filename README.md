@@ -1,7 +1,7 @@
 # Description of the repository
 This is the core of my Obsidian template that allows me to significantly improve the way I personally approach note-taking, especially when taking notes on scientific articles.   
 
-A quick non-professionnal video of me presenting you what you can do with this templayte is available in the repository. I would strongly advise to watch it first (it lasts $\approx$ 10m) to directly know if you could benefit from this software. The idea of this GitHub repository is more to expose what can be possibly done with Obsidian than a true tutorial. If you encounter any problems while trying to configurate this template, feel free to contact me at pierre-alexandre.quittet@cefe.cnrs.fr or directly come by my office at the CEFE (office 2bis, groundfloor), I'll be more than happy to help you.
+A quick non-professionnal video of me presenting you what you can do with this template is available in the repository. I would strongly advise to watch it first (it lasts $\approx$ 30m) to directly know if you could benefit from this software. The idea of this GitHub repository is more to expose what can be possibly done with Obsidian than a true tutorial. If you encounter any problems while trying to configurate this template, feel free to contact me at pierre-alexandre.quittet@cefe.cnrs.fr or directly come by my office at the CEFE (office 2bis, groundfloor), I'll be more than happy to help you.
 
 <br>
 
