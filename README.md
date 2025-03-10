@@ -15,6 +15,8 @@ A quick non-professionnal video of me presenting you what you can do with this t
 Steps to follow :
 1. Download Obsidian : https://obsidian.md/download [you'll need to make a GLPI ticket]
 2. Download the content of the GitHub repository
-3. Open the downloaded file with Obsidian as 'Vault'
+![image](https://github.com/user-attachments/assets/4cb937b1-985b-44e7-9a3a-e1af74e0455b)
+
+4. Open the downloaded file with Obsidian as 'Vault'
 ![image|10%](https://github.com/user-attachments/assets/ea21fed0-86c4-4759-beb5-3760d42377ff)
 
