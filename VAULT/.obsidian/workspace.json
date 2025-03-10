@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. TUTORIAL OBSIDIAN - Import articles from ZOTERO.md",
+                "file": "1. TUTORIAL OBSIDIAN - syntax.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2. TUTORIAL OBSIDIAN - Import articles from ZOTERO"
+              "title": "1. TUTORIAL OBSIDIAN - syntax"
             }
           }
         ]
@@ -147,10 +147,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. TUTORIAL OBSIDIAN - Import articles from ZOTERO.md"
+                "file": "1. TUTORIAL OBSIDIAN - syntax.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. TUTORIAL OBSIDIAN - Import articles from ZOTERO"
+              "title": "Outline of 1. TUTORIAL OBSIDIAN - syntax"
             }
           },
           {
@@ -249,12 +249,20 @@
   },
   "active": "eb242493b4560687",
   "lastOpenFiles": [
-    "1. TUTORIAL OBSIDIAN - syntax.md",
-    "📌 TO DO LIST.md",
+    "2. TUTORIAL OBSIDIAN - Import articles from ZOTERO.md",
+    "IMAGE/Pasted image 20250310192745.png",
+    "IMAGE/Pasted image 20250310192742.png",
+    "IMAGE/Pasted image 20250310192741.png",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allainé & Theuriau, 2004).md",
+    "IMAGE/Pasted image 20250310192540.png",
+    "IMAGE/Pasted image 20250310192425.png",
+    "IMAGE/Pasted image 20250310192344.png",
+    "1. TUTORIAL OBSIDIAN - syntax.md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/📈 DATAVIEW_ZOTERO.md",
+    "IMAGE/Pasted image 20250310192206.png",
+    "📌 TO DO LIST.md",
     "IMAGE/Pasted image 20250310163129.png",
     "IMAGE/Pasted image 20250310155952.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/📈 DATAVIEW_ZOTERO.md",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Matteo et al., 2025).md",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Canale et al., 2016).md",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Bonnet et al., 2017).md",
@@ -264,15 +272,8 @@
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Moore et al., 2019).md",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Lardy et al., 2015).md",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Hadfield, 2008).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Matteo et al., 2025)/image-3-x301-y274.png",
     "FORMATIONS/CMR - 03-10-2025.md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Matteo et al., 2025)/image-undefined-x43-y580.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Matteo et al., 2025)/image-undefined-x46-y575.png",
     "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Matteo et al., 2025)",
-    "IMAGE/Pasted image 20250310121309.png",
-    "IMAGE/Pasted image 20250310120553.png",
-    "IMAGE/Pasted image 20250310120355.png",
-    "IMAGE/Pasted image 20250310120129.png",
     "FORMATIONS",
     "🎇THESE/🤦🏽‍♂️ Questions thèse.md",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Tafani et al., 2013).md",
@@ -286,8 +287,6 @@
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Gienapp et al., 2014).md",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Bonnet et al., 2019).md",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Boutin & Lane, 2014).md",
-    "📕 GLOSSAIRE/Mécanisme taille x température.md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Troyer et al., 2022).md",
     "BIBLIOTHEQUE_ZOTERO.json",
     "Untitled.canvas",
     "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Bichet et al., 2016)",

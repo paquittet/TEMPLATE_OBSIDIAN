@@ -40,7 +40,10 @@ status:: progress
 **Fiche de lecture**:   [[👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Allainé & Theuriau, 2004)]] 
 
 
-> [!related]-  Contribution
+> [!question]  Question
+> **Question**:: Impact de la composition sociale sur la fitness chez une espèce sociale coopérative 
+
+> [!related] Contribution
 > **Contribution**:: Condition de la femelle n'est pas affecté par les helpers et de la persistence du mâle dominant. **Persistence dominance**: female - augmente avec la condition l'année précédente, mais indépendante nb helpers / occurence portée l'année précédente. Male - augmente avec effet quadratique helpers (i.e. augmente puis diminue : optimal!), mais indépendant du reste. **Nombre optimal helpers** : 1.6 mâle, 2.1 pour femelle (conflit?)
 
 
