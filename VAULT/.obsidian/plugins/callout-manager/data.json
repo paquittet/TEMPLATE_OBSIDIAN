@@ -84,8 +84,22 @@
       ],
       "cite": [
         {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
           "changes": {
-            "color": "235, 219, 178"
+            "color": "100, 98, 98"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 0, 0"
           }
         }
       ],
@@ -100,7 +114,7 @@
         {
           "changes": {
             "icon": "lucide-key",
-            "color": "250, 189, 47"
+            "color": "84, 43, 233"
           }
         }
       ],
@@ -155,7 +169,7 @@
       "significance": [
         {
           "changes": {
-            "icon": "lucide-brain-circuit",
+            "icon": "lucide-book-open",
             "color": "142, 192, 124"
           }
         }

@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "23247be33757206b",
+        "id": "9fb505acc465db17",
         "type": "tabs",
         "children": [
           {
-            "id": "4531bb62010837d4",
+            "id": "eb242493b4560687",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. TUTORIAL OBSIDIAN - syntax.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1. TUTORIAL OBSIDIAN - syntax"
+              "title": "New tab"
             }
           }
         ]
@@ -34,27 +29,15 @@
       {
         "id": "12b46f1d88d864f2",
         "type": "tabs",
-        "dimension": 73.61111111111111,
+        "dimension": 68.31983805668015,
         "children": [
-          {
-            "id": "eba1a751f3296c42",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "0029cda13af36f7b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "admini",
+                "query": "CMR",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -74,13 +57,25 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "eba1a751f3296c42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
         ]
       },
       {
         "id": "66b043fa8d3225b1",
         "type": "tabs",
-        "dimension": 26.388888888888893,
+        "dimension": 31.680161943319842,
         "children": [
           {
             "id": "72933cd945f2f914",
@@ -96,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 373.5,
+    "collapsed": true
   },
   "right": {
     "id": "d488d831c3a62677",
@@ -105,7 +101,7 @@
       {
         "id": "7e86dd62be2ccb99",
         "type": "tabs",
-        "dimension": 37.12871287128713,
+        "dimension": 39.58785249457701,
         "children": [
           {
             "id": "0ea0048bc809f2f5",
@@ -121,60 +117,13 @@
             }
           },
           {
-            "id": "a478535f66e7ee5a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "🎇 IDEES THESE.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 🎇 IDEES THESE"
-            }
-          },
-          {
-            "id": "e13ddf14dd0ade45",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "🎇 IDEES THESE.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 🎇 IDEES THESE"
-            }
-          },
-          {
-            "id": "388dcfbf85024232",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📖 JOURNAL/02_Week/W43-2024.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "W43-2024"
-            }
-          },
-          {
             "id": "f8fe4e302035e946",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -193,19 +142,72 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎇 IDEES THESE.md"
+                "file": "FORMATIONS/CMR - 03-10-2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 🎇 IDEES THESE"
+              "title": "Outline of CMR - 03-10-2025"
+            }
+          },
+          {
+            "id": "a1dfb16ff2b25561",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "3fed6882a4fb235b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📖 JOURNAL/📌 TO DO LIST.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 📌 TO DO LIST"
+            }
+          },
+          {
+            "id": "7a1c237ee035bf57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📖 JOURNAL/📌 TO DO LIST.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 📌 TO DO LIST"
+            }
+          },
+          {
+            "id": "87bc4cd1e0b862e9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "9ca924f79b85a124",
         "type": "tabs",
-        "dimension": 62.87128712871287,
+        "dimension": 60.412147505423,
         "children": [
           {
             "id": "0b37c0fc3366d6b2",
@@ -213,10 +215,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📌 TO DO LIST.md",
-                "mode": "preview",
+                "file": "📖 JOURNAL/📌 TO DO LIST.md",
+                "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "📌 TO DO LIST"
@@ -226,12 +228,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 420.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -239,59 +243,60 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "callout-manager:Insert Callout": false,
+      "latex-ocr:LatexOCR": false,
       "periodic-notes:Open today": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4531bb62010837d4",
+  "active": "eb242493b4560687",
   "lastOpenFiles": [
-    "📕 Glossary/methylation.md",
-    "🔨 TEMPLATE/zotero_article_template.md",
+    "IMAGE/Pasted image 20250310163129.png",
+    "IMAGE/Pasted image 20250310155952.png",
     "👩🏽‍🔬 LITTERATURE_NOTES/📈 DATAVIEW_ZOTERO.md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allainé & Theuriau, 2004).md",
-    "1. TUTORIAL OBSIDIAN - syntax.md",
-    "2. TUTORIAL OBSIDIAN - Import articles from ZOTERO.md",
-    "📌 TO DO LIST.md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Allainé & Theuriau, 2004).md",
-    "IMAGE/Pasted image 20250127145648.png",
-    "IMAGE",
-    "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Bonnet et al., 2017).md",
-    "🔨 TEMPLATE/reading_sheet_article.md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Allainé & Theuriau, 2004)/image-undefined-x53-y601.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Allainé & Theuriau, 2004)/image-7-x58-y63.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/OTHER/Evolution and selection of quantiative traits (Walsh and Lynch, 2018)/Lecture 12.md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allaine, 2000).md",
-    "🔨 TEMPLATE/daily_notes.md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Rézouki et al., 2016).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Oke et al., 2020).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Gimenez & Gaillard, 2018).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(Dingemanse et al., 2021).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_(de Villemereuil, 2018).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET",
-    "👩🏽‍🔬 LITTERATURE_NOTES/OTHER/Evolution and selection of quantiative traits (Walsh and Lynch, 2018)",
-    "👩🏽‍🔬 LITTERATURE_NOTES/OTHER",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wolf & Wade, 2009)/image-undefined-x80-y637.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wolf & Wade, 2009)/image-undefined-x56-y416.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wolf & Wade, 2009)/image-7-x312-y49.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wolf & Wade, 2009)/image-6-x41-y594.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wolf & Wade, 2009)/image-6-x40-y326.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wolf & Wade, 2009)/image-4-x41-y592.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wolf & Wade, 2009)/image-3-x54-y634.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wolf & Wade, 2009)",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Rézouki et al., 2016)",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Plard et al., 2021)",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Papaïx et al., 2010)",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Munar‐Delgado et al., 2023)",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Moore et al., 2019)",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Wolf & Wade, 2009).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Wilson et al., 2005).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Serbezov et al., 2010).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Santostefano et al., 2024).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Rézouki et al., 2016).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Plard et al., 2021).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Papaïx et al., 2010).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Oke et al., 2020).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Matteo et al., 2025).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Canale et al., 2016).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Bonnet et al., 2017).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Berger et al., 2018).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Arnold et al., 1991).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Matteo et al., 2025)/image-6-x40-y419.png",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Moore et al., 2019).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Lardy et al., 2015).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Hadfield, 2008).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Matteo et al., 2025)/image-3-x301-y274.png",
+    "FORMATIONS/CMR - 03-10-2025.md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Matteo et al., 2025)/image-undefined-x43-y580.png",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Matteo et al., 2025)/image-undefined-x46-y575.png",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Matteo et al., 2025)",
+    "IMAGE/Pasted image 20250310121309.png",
+    "IMAGE/Pasted image 20250310120553.png",
+    "IMAGE/Pasted image 20250310120355.png",
+    "IMAGE/Pasted image 20250310120129.png",
+    "IMAGE/Pasted image 20250310115926.png",
+    "FORMATIONS",
+    "🎇THESE/🤦🏽‍♂️ Questions thèse.md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Tafani et al., 2013).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Tafani et al., 2013)",
+    "🎇THESE/🎇 IDEES THESE.md",
+    "📖 JOURNAL/📌 TO DO LIST.md",
+    "🥱 CHEATSHEET ADMINISTRATIF/CSI.md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Ozgul et al., 2010).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Gienapp et al., 2008).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Gienapp & Merilä, 2018).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Gienapp et al., 2014).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Bonnet et al., 2019).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Boutin & Lane, 2014).md",
+    "📕 GLOSSAIRE/Mécanisme taille x température.md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Troyer et al., 2022).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Sheridan & Bickford, 2011).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Wells et al., 2022).md",
+    "BIBLIOTHEQUE_ZOTERO.json",
     "Untitled.canvas",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Bichet et al., 2016)",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Arnold et al., 1991)",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Armitage, 1999)",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Blumstein et al., 2023)",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Arnold, 1988)",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Berger et al., 2015)",
     "Schémas modèles et paramètres calculés.canvas",
     "👩🏽‍🔬 LITTERATURE_NOTES/0.Article to read.canvas"
   ]

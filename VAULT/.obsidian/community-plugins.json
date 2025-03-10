@@ -17,5 +17,7 @@
   "obsidian-citation-plugin",
   "obsidian-style-settings",
   "obsidian-outliner",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "obsidian-git",
+  "latex-ocr"
 ]

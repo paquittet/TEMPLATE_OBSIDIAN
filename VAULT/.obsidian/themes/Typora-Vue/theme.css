@@ -6,29 +6,14 @@
 
 /* make page full width */
 body {
-  --file-line-width: 85% !important;
-  --image-width: 500px !important;
-  --img-max-width: 80%!important;
+  --file-line-width: 90% !important;
 }
 
-.cm-content {
-    max-width: 100% !important;
+.markdown-source-view, .markdown-preview-view {
+  max-width: var(--file-line-width) !important;
+  margin: 0 auto !important;
 }
 
-/* Centrage et redimensionnement des images dans les callouts */
-.markdown-rendered .callout-content img, 
-.cm-contentContainer .callout-content img, 
-.cm-content img {
-  display: block !important; /* Bloquer l'affichage pour éviter tout alignement par défaut */
-  margin: 1em auto !important;
-  border: none !important; /* Pas de bordure autour de l'image */
-  background-color: transparent !important; /* Arrière-plan transparent */
-  width: 1em auto !important; /* Prendre toute la largeur disponible (vous pouvez ajuster la valeur selon vos besoins) */
-  max-width: 40% !important; /* Taille maximale de l'image en fonction de l'espace disponible */
-  height: auto !important; /* Maintenir le ratio d'aspect original */
-  max-height: 40% !important;
-  text-align: center !important; /* Assurer que le texte autour soit centré */
-}
 
 
 
@@ -70,13 +55,18 @@ body{
 	--text-normal: #34495e;
 	--background-secondary: #ffffff;
 	--code-background: #f8f8f8;
-	--cus-inline-code-text: #e96900;
+	--cus-inline-code-text: #585858;
 	--cus-code-block-border: #f4f4f4;
 	--cus-table-header: #f2f2f2;
 	--cus-table-gap-tr: #fafafa;
 	--table-row-background-hover: #f2f2f2;
 	--cus-highlight-cursor-line: rgba(245,204,142,0.12);
 }
+
+code {
+  font-weight: bold;
+}
+
 
 
 .theme-dark{

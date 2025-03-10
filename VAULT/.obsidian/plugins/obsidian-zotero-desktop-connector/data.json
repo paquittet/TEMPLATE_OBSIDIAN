@@ -1,9 +1,9 @@
 {
   "database": "Zotero",
   "noteImportFolder": "👩🏽‍🔬 LITTERATURE_NOTES",
-  "pdfExportImageDPI": 120,
+  "pdfExportImageDPI": 60,
   "pdfExportImageFormat": "jpg",
-  "pdfExportImageQuality": 90,
+  "pdfExportImageQuality": 10,
   "citeFormats": [
     {
       "name": "Pandoc",
