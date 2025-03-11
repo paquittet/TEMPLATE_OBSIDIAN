@@ -243,8 +243,7 @@
       "templater-obsidian:Templater": false,
       "callout-manager:Insert Callout": false,
       "latex-ocr:LatexOCR": false,
-      "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "eb242493b4560687",
