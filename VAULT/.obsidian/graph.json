@@ -1,19 +1,12 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "path:\"👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6065110
-      }
-    },
     {
       "query": "",
       "color": {
@@ -32,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.13273001031796886,
+  "scale": 0.05243117085208197,
   "close": true
 }

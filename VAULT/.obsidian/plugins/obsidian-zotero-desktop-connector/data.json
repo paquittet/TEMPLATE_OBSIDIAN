@@ -3,7 +3,7 @@
   "noteImportFolder": "👩🏽‍🔬 LITTERATURE_NOTES",
   "pdfExportImageDPI": 60,
   "pdfExportImageFormat": "jpg",
-  "pdfExportImageQuality": 10,
+  "pdfExportImageQuality": 50,
   "citeFormats": [
     {
       "name": "Pandoc",

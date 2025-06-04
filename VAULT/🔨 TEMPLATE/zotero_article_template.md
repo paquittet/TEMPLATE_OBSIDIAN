@@ -34,6 +34,7 @@ year: {{date | format("YYYY")}}
 status:: {{ status }}
 ---
 
+
 {%- for annotation in annotations %}  
 {%- if annotation.imageRelativePath %}  
 {%- if annotation.comment == "title" %}  
@@ -47,7 +48,16 @@ status:: {{ status }}
 **Fiche de lecture**: {% set authorCount = creators | length %} {% if authorCount == 1 %} [[👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_({{creators[0].lastName}}, {{date | format("YYYY")}})]] {% elif authorCount == 2 %} [[👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_({{creators[0].lastName}} & {{creators[1].lastName}}, {{date | format("YYYY")}})]] {% else %} [[👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_({{creators[0].lastName}} et al., {{date | format("YYYY")}})]] {% endif %}
 
 
-> [!related]-  Contribution
+<br> 
+
+**Lien Zotero**:: {{pdfZoteroLink}}
+
+> [!question]+
+ > **Question**:: {%- for annotation in annotations %}  {%- if annotation.comment and "QUESTION" in annotation.comment|string %} {{ annotation.comment.replace("QUESTION :", "") | escape }}  {%- endif %}{%- endfor %}
+
+
+
+> [!related]+  Contribution
 > **Contribution**:: {%- if notes %} {{ notes[0].note }} {%- else %} {%- endif %}
 
 
@@ -82,22 +92,30 @@ status:: {{ status }}
 > {{abstractNote}}  
 > {%- endif -%}.  
 
-> [!keywords]- 
+> [!keywords]+
  keywords:: {% if allTags %} {% for tag in allTags.split(', ') %} #{{tag}} {% endfor %} {% endif %}
 
 
 <br>
 <br>
 
+
 # B. ANNOTATIONS
 {% for annotation in annotations -%}
 {%- if annotation.comment != "title" %}
-    {%- if annotation.annotatedText -%} 
+	{%- if annotation.comment == "part1" %} ## {{annotation.annotatedText | escape}}
+	{%- elif annotation.comment == "part2" %} ### {{annotation.annotatedText | escape}}
+	{%- elif annotation.comment == "part3" %} #### {{annotation.annotatedText | escape}}
+	{%- elif annotation.comment == "part4" %} ##### {{annotation.annotatedText | escape}}
+    {%- elif annotation.annotatedText -%} 
 	<mark class="hltr-{{annotation.colorCategory | lower}}">"{{annotation.annotatedText | escape}}”</mark> [Page {{annotation.page}}](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.page}}&annotation={{annotation.id}})
     {%- endif %} 
     {%- if annotation.imageRelativePath -%}
     ![[{{annotation.imageRelativePath}}]] {%- endif %} 
-{%- if annotation.comment %} 
+{%- if annotation.comment != "part1" %} 
+{%- if annotation.comment != "part2" %}
+{%- if annotation.comment != "part3" %}
+{%- if annotation.comment != "part4" %}
 
 {{annotation.comment}} 
 
@@ -105,7 +123,9 @@ status:: {{ status }}
 
 {%- endif %} 
 {%- endif %} 
-
-
+{%- endif %}
+{%- endif %}
+{%- endif %}
 
 {% endfor %}
+
