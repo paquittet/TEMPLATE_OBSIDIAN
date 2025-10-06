@@ -1,16 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "📌 KANBAN - TO DO LIST",
-      "path": "📌 KANBAN - TO DO LIST.md"
-    },
-    {
-      "basename": "03. TUTORIAL - Organise tasks with Kanban",
-      "path": "03. TUTORIAL - Organise tasks with Kanban.md"
-    },
-    {
-      "basename": "📈 DATAVIEW_ZOTERO",
-      "path": "👩🏽‍🔬 LITTERATURE_NOTES/📈 DATAVIEW_ZOTERO.md"
+      "basename": "04. TUTORIAL - Automatically save vault on Github",
+      "path": "04. TUTORIAL - Automatically save vault on Github.md"
     },
     {
       "basename": "02. TUTORIAL - Import articles from ZOTERO",
@@ -19,6 +11,18 @@
     {
       "basename": "01. TUTORIAL - Write notes",
       "path": "01. TUTORIAL - Write notes.md"
+    },
+    {
+      "basename": "03. TUTORIAL - Organise tasks with Kanban",
+      "path": "03. TUTORIAL - Organise tasks with Kanban.md"
+    },
+    {
+      "basename": "📌 KANBAN - TO DO LIST",
+      "path": "📌 KANBAN - TO DO LIST.md"
+    },
+    {
+      "basename": "📈 DATAVIEW_ZOTERO",
+      "path": "👩🏽‍🔬 LITTERATURE_NOTES/📈 DATAVIEW_ZOTERO.md"
     },
     {
       "basename": "Data analysis of X",
@@ -75,10 +79,6 @@
     {
       "basename": "Finaliser analyse CMR",
       "path": "Kanban/Finaliser analyse CMR.md"
-    },
-    {
-      "basename": "(Romano et al., 2025)",
-      "path": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Romano et al., 2025).md"
     }
   ],
   "omittedPaths": [],

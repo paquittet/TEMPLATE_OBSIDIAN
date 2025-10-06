@@ -5,7 +5,7 @@
     {
       "id": 1,
       "name": "Ma bibliothèque",
-      "lastUpdate": 1759760437988
+      "lastUpdate": 1759761048484
     }
   ],
   "renderCitations": true,
@@ -14,5 +14,6 @@
   "enableCiteKeyCompletion": true,
   "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl",
   "pullFromZotero": true,
-  "showCitekeyTooltips": false
+  "showCitekeyTooltips": false,
+  "pathToBibliography": "C:\\Users\\quittet\\Documents\\TEMPLATE_OBSIDIAN\\VAULT\\.pandoc\\zotero-library-1.json"
 }
