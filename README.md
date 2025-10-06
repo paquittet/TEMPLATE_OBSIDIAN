@@ -3,7 +3,7 @@ This is the core of my Obsidian template that allows me to significantly improve
 
 A quick non-professionnal video of me presenting you what you can do with this template is available in the repository. I would strongly advise to watch it first (it lasts $\approx$ 30m) to directly know if you could benefit from this software (**note that the Vault has been updated alongside its functionalities, the video does not cover all the features of this template anymore**). The idea of this GitHub repository is more to expose what can be possibly done with Obsidian than a true tutorial. Nevertheless, it can constitute a great help to begin as all plugins (i.e. packages), templates, settings... are already done in the vault I propose. If you encounter any problems while trying to configurate this template, feel free to contact me at pierre-alexandre.quittet@cefe.cnrs.fr or directly come by my office at the CEFE (office 2bis, groundfloor), I'll be more than happy to help you.
 
-**Important** : After going through the "How to use this Obsidian template" part, I strongly advise you to read the 3 shorts tutorial (`01-02-03 TUTORIAL - [...]`) present in the vault before starting to make the few adjustment necessary to full use this vault as a starter pack
+**Important** : After going through the "How to use this Obsidian template" part, I strongly advise you to read the 4 shorts tutorial (`01-02-03-04 TUTORIAL - [...]`) present in the vault before starting to make the few adjustment necessary to full use this vault as a starter pack
 
 <br>
 
@@ -22,3 +22,4 @@ Steps to follow :
 
 4. Open the downloaded file with Obsidian as 'Vault'
 ![image|10%](https://github.com/user-attachments/assets/ea21fed0-86c4-4759-beb5-3760d42377ff)
+
