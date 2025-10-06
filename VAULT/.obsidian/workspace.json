@@ -250,9 +250,9 @@
       "callout-manager:Insert Callout": false,
       "obsidian-git:Open Git source control": false,
       "latex-ocr:LatexOCR": false,
+      "obsidian-kanban:Create new board": false,
       "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "af03745329fde849",
