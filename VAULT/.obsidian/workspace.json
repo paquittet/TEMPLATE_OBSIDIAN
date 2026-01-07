@@ -26,15 +26,10 @@
             "id": "0cf3cac755a19a78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📐STATISTIC & CODE/brms.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "brms"
+              "title": "New tab"
             }
           }
         ],
@@ -130,13 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📐STATISTIC & CODE/brms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of brms"
+              "title": "Outline"
             }
           },
           {
@@ -263,15 +257,10 @@
             "id": "9a7d2a692bde7dd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📌 TO DO LIST/To do list.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "To do list"
+              "title": "New tab"
             }
           }
         ],
