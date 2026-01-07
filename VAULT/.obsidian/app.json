@@ -1,4 +1,32 @@
 {
+  "tabSize": 5,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "image"
+  "promptDelete": true,
+  "propertiesInDocument": "hidden",
+  "showInlineTitle": true,
+  "showLineNumber": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "",
+  "trashOption": "system",
+  "attachmentFolderPath": "IMAGE",
+  "useTab": true,
+  "livePreview": false,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 49
+  },
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "apply",
+    "dataframe",
+    "prior",
+    "posterior",
+    "priors",
+    "- countergradie"
+  ]
 }

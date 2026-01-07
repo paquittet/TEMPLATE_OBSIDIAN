@@ -1,5 +1,61 @@
-/* reading mode */
-.markdown-preview-view :is(p,ul,ol) {
-    text-align: justify;
-    text-justify: inter-word;   
+/* ============================================================
+   JUSTIFICATION DU TEXTE — FONCTIONNE DANS TOUS LES MODES
+   ============================================================ */
+
+
+/* ------- Reading mode (ok) ------- */
+.markdown-preview-view  .markdown-rendered p,
+.markdown-preview-view  .markdown-rendered ul,
+.markdown-preview-view  .markdown-rendered ol,
+.markdown-preview-view  .markdown-rendered li {
+    text-align: justify !important;
+    text-justify: inter-word !important;
 }
+
+
+/* ------- Live Preview + Source Mode (CodeMirror) ------- */
+.cm-content .cm-line,
+.cm-content .HyperMD-list-line,
+.cm-content .HyperMD-list-bullet,
+.cm-content .HyperMD-list-number,
+.cm-content .HyperMD-quote {
+    text-align: justify !important;
+    text-justify: inter-word !important;
+}
+
+/* Conteneur principal */
+.markdown-preview-view,
+.markdown-reading-view,
+.markdown-rendered {
+    text-align: justify !important;
+    text-justify: inter-word !important;
+}
+
+/* Éléments internes */
+.markdown-preview-view p,
+.markdown-preview-view ul,
+.markdown-preview-view ol,
+.markdown-preview-view li,
+.markdown-rendered {
+    text-align: justify !important;
+    text-justify: inter-word !important;
+}
+
+.markdown-reading-view p,
+.markdown-reading-view ul,
+.markdown-reading-view ol,
+.markdown-reading-view li,
+.markdown-rendered {
+    text-align: justify !important;
+    text-justify: inter-word !important;
+}
+
+.markdown-rendered p,
+.markdown-rendered ul,
+.markdown-rendered ol,
+.markdown-rendered li {
+    text-align: justify !important;
+    text-justify: inter-word !important;
+}
+
+

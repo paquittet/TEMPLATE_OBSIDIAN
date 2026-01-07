@@ -4365,3 +4365,5 @@ var CalloutManagerPlugin = class extends import_obsidian25.Plugin {
     return this.api.destroyHandle(version, consumerPlugin);
   }
 };
+
+/* nosourcemap */

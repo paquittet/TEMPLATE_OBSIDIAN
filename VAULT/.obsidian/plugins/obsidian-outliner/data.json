@@ -1,9 +1,9 @@
 {
   "styleLists": true,
   "debug": false,
-  "stickCursor": "bullet-and-checkbox",
-  "betterEnter": true,
-  "betterTab": true,
+  "stickCursor": "never",
+  "betterEnter": false,
+  "betterTab": false,
   "selectAll": true,
   "listLines": true,
   "listLineAction": "toggle-folding",

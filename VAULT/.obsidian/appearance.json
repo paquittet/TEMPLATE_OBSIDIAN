@@ -1,3 +1,27 @@
 {
-  "theme": "moonstone"
+  "cssTheme": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "reduce_space_betweet_header",
+    "reduce_space_betwee_header_list",
+    "No_shadow_title_snippet",
+    "theme_nier_custom",
+    "reduce_space_between_list",
+    "no side decoration",
+    "center_text_canvas",
+    "line_beneath_h1",
+    "image_size_position",
+    "image_size_default",
+    "justify_text",
+    "line_beneath_h1_embeded_title",
+    "100_width3"
+  ],
+  "accentColor": "#80a2b7",
+  "textFontFamily": "Cambria Math",
+  "monospaceFontFamily": "Consolas",
+  "interfaceFontFamily": "Calibri",
+  "baseFontSize": 18,
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "showRibbon": false
 }

@@ -5,18 +5,6 @@ aliases:
  - {{DOI}}
 type: {{itemType}}
 firstAuthor: {{creators[0].lastName}}
-authors: 
- - {{creators[0].lastName}}
- - {{creators[1].lastName}}
- - {{creators[2].lastName}}
- - {{creators[3].lastName}}
- - {{creators[4].lastName}}
- - {{creators[5].lastName}}
- - {{creators[6].lastName}}
- - {{creators[7].lastName}}
- - {{creators[8].lastName}}
- - {{creators[9].lastName}}
- - {{creators[10].lastName}}
 publication: {{publicationTitle}}
 year: {{date | format("YYYY")}} 
 {% set status = "unread" %}  {# Par défaut, le statut est "0" #}
@@ -31,6 +19,11 @@ year: {{date | format("YYYY")}}
     {% endif %}
   {% endfor %}
 {% endif %}
+Authors: {% for creator in creators %}
+{% if creator.creatorType == "author" %}
+  - "{% if creator.name %}[[{{ creator.name }}]]{% else %}[[{{ creator.lastName }}]], {{ creator.firstName }}{% endif %}"
+{% endif %}
+{% endfor %}
 status:: {{ status }}
 ---
 
@@ -38,7 +31,7 @@ status:: {{ status }}
 {%- for annotation in annotations %}  
 {%- if annotation.imageRelativePath %}  
 {%- if annotation.comment == "title" %}  
-![[{{annotation.imageRelativePath }}]]  
+![[{{annotation.imageRelativePath }}|1000]]  
 {%- endif %}  
 {%- endif %}  
 {%- endfor %}
@@ -47,17 +40,15 @@ status:: {{ status }}
 
 **Fiche de lecture**: {% set authorCount = creators | length %} {% if authorCount == 1 %} [[👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_({{creators[0].lastName}}, {{date | format("YYYY")}})]] {% elif authorCount == 2 %} [[👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_({{creators[0].lastName}} & {{creators[1].lastName}}, {{date | format("YYYY")}})]] {% else %} [[👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_({{creators[0].lastName}} et al., {{date | format("YYYY")}})]] {% endif %}
 
+**Lien Zotero**:: {{pdfZoteroLink}}
 
 <br> 
 
-**Lien Zotero**:: {{pdfZoteroLink}}
-
-> [!question]+
+> [!question]+ 
  > **Question**:: {%- for annotation in annotations %}  {%- if annotation.comment and "QUESTION" in annotation.comment|string %} {{ annotation.comment.replace("QUESTION :", "") | escape }}  {%- endif %}{%- endfor %}
 
 
-
-> [!related]+  Contribution
+> [!abstract]+  Contribution
 > **Contribution**:: {%- if notes %} {{ notes[0].note }} {%- else %} {%- endif %}
 
 
@@ -89,11 +80,11 @@ status:: {{ status }}
 > [!Info]- Abstract
 > ---
 > {%- if abstractNote %}  
-> {{abstractNote}}  
+> {{abstractNote|replace("  ","")}}  
 > {%- endif -%}.  
 
-> [!keywords]+
- keywords:: {% if allTags %} {% for tag in allTags.split(', ') %} #{{tag}} {% endfor %} {% endif %}
+> [!check]+ Keywords
+ keywords:: {% if allTags %} {% for tag in allTags.split(', ') %} #{{tag|replace(" ","_")}} {% endfor %} {% endif %}
 
 
 <br>
@@ -117,8 +108,12 @@ status:: {{ status }}
 {%- if annotation.comment != "part3" %}
 {%- if annotation.comment != "part4" %}
 
-{{annotation.comment}} 
+{%- if annotation.comment %}  
 
+* {{annotation.comment}}
+
+    {%- endif %} 
+    
 <br>
 
 {%- endif %} 

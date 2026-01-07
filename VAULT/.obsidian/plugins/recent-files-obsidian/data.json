@@ -1,84 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "04. TUTORIAL - Automatically save vault on Github",
-      "path": "04. TUTORIAL - Automatically save vault on Github.md"
+      "basename": "brms",
+      "path": "📐STATISTIC & CODE/brms.md"
     },
     {
-      "basename": "02. TUTORIAL - Import articles from ZOTERO",
-      "path": "02. TUTORIAL - Import articles from ZOTERO.md"
+      "basename": "R random astuces",
+      "path": "📐STATISTIC & CODE/R random astuces.md"
     },
     {
-      "basename": "01. TUTORIAL - Write notes",
-      "path": "01. TUTORIAL - Write notes.md"
+      "basename": "To do list",
+      "path": "📌 TO DO LIST/To do list.md"
     },
     {
-      "basename": "03. TUTORIAL - Organise tasks with Kanban",
-      "path": "03. TUTORIAL - Organise tasks with Kanban.md"
+      "basename": "Correction données",
+      "path": "KANBAN/Correction données.md"
     },
     {
-      "basename": "📌 KANBAN - TO DO LIST",
-      "path": "📌 KANBAN - TO DO LIST.md"
+      "basename": "TRAVAUX BDD",
+      "path": "TRAVAUX BDD.md"
     },
     {
-      "basename": "📈 DATAVIEW_ZOTERO",
-      "path": "👩🏽‍🔬 LITTERATURE_NOTES/📈 DATAVIEW_ZOTERO.md"
-    },
-    {
-      "basename": "Data analysis of X",
-      "path": "Kanban notes/Data analysis of X.md"
-    },
-    {
-      "basename": "(Allainé & Theuriau, 2004)",
-      "path": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allainé & Theuriau, 2004).md"
-    },
-    {
-      "basename": "(Teplitsky & Millien, 2014)",
-      "path": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Teplitsky & Millien, 2014).md"
-    },
-    {
-      "basename": "Pasted image 20250127145648",
-      "path": "image/Pasted image 20250127145648.png"
-    },
-    {
-      "basename": "Pasted image 20250310192206",
-      "path": "image/Pasted image 20250310192206.png"
-    },
-    {
-      "basename": "An important task",
-      "path": "Kanban notes/An important task.md"
-    },
-    {
-      "basename": "📌 Administratif",
-      "path": "📌 TO DO LIST/📌 Administratif.md"
+      "basename": "prior in MCMCglmm",
+      "path": "📐STATISTIC & CODE/prior in MCMCglmm.md"
     },
     {
       "basename": "📌 Thèse",
       "path": "📌 TO DO LIST/📌 Thèse.md"
     },
     {
-      "basename": "💎 CHEATSHEET OBSIDIAN",
-      "path": "💎 CHEATSHEET OBSIDIAN.md"
+      "basename": "(Plard et al., 2021)",
+      "path": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Plard et al., 2021).md"
     },
     {
-      "basename": "reproductive strategy",
-      "path": "📕 GLOSSAIRE/reproductive strategy.md"
+      "basename": "schema_simulation bv animal model",
+      "path": "EXCALIDRAW/schema_simulation bv animal model.md"
     },
     {
-      "basename": "IDEES THESE",
-      "path": "🎇THESE/IDEES THESE.md"
+      "basename": "schema_procedure_analyse_pedigree_genetique",
+      "path": "EXCALIDRAW/schema_procedure_analyse_pedigree_genetique.md"
     },
     {
-      "basename": "Mesure de fitness",
-      "path": "Kanban/Mesure de fitness.md"
+      "basename": "schema_compute_fecondity.excalidraw",
+      "path": "EXCALIDRAW/schema_compute_fecondity.excalidraw.md"
     },
     {
-      "basename": "Conférences",
-      "path": "🥱 CHEATSHEET ADMINISTRATIF/Conférences.md"
+      "basename": "schema_summary_article_1.excalidraw",
+      "path": "EXCALIDRAW/schema_summary_article_1.excalidraw.md"
     },
     {
-      "basename": "Finaliser analyse CMR",
-      "path": "Kanban/Finaliser analyse CMR.md"
+      "basename": "Model selection",
+      "path": "📐STATISTIC & CODE/Model selection.md"
+    },
+    {
+      "basename": "Mixed model",
+      "path": "📐STATISTIC & CODE/Mixed model.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "📌 Administratif",
+      "path": "📌 TO DO LIST/📌 Administratif.md"
+    },
+    {
+      "basename": "Tutoriel - Principe d'inférence",
+      "path": "🦌 CERVUS SOFTWARE/Tutoriel - Principe d'inférence.md"
+    },
+    {
+      "basename": "CERVUS - Tester la validité de l'analyse",
+      "path": "🦌 CERVUS SOFTWARE/CERVUS - Tester la validité de l'analyse.md"
+    },
+    {
+      "basename": "zotero_article_template",
+      "path": "🔨 TEMPLATE/zotero_article_template.md"
+    },
+    {
+      "basename": "📈 DATAVIEW_ZOTERO",
+      "path": "👩🏽‍🔬 LITTERATURE_NOTES/📈 DATAVIEW_ZOTERO.md"
     }
   ],
   "omittedPaths": [],

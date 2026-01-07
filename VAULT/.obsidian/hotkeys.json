@@ -140,5 +140,21 @@
   "workspace:goto-tab-4": [],
   "workspace:goto-tab-5": [],
   "workspace:goto-tab-6": [],
-  "workspace:goto-tab-7": []
+  "workspace:goto-tab-7": [],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "backlink:toggle-backlinks-in-document": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad0"
+    }
+  ]
 }

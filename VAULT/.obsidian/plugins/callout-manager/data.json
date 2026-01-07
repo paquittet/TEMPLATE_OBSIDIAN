@@ -1,197 +1,33 @@
 {
   "callouts": {
-    "custom": [
-      "meta",
-      "related",
-      "link",
-      "authors",
-      "keywords",
-      "hypothesis",
-      "methodology",
-      "summary",
-      "result",
-      "context",
-      "significance",
-      "todoist",
-      "testy",
-      "results"
-    ],
+    "custom": [],
     "settings": {
-      "testy": [
+      "question": [
         {
           "changes": {
-            "icon": "lucide-star"
-          }
-        },
-        {
-          "condition": {
-            "colorScheme": "light"
-          },
-          "changes": {}
-        },
-        {
-          "condition": {
-            "colorScheme": "dark"
-          },
-          "changes": {
-            "color": "250, 189, 47"
+            "color": "255, 46, 46"
           }
         }
       ],
-      "meta": [
+      "info": [
         {
           "changes": {
-            "icon": "lucide-info"
-          }
-        },
-        {
-          "condition": {
-            "colorScheme": "light"
-          },
-          "changes": {}
-        },
-        {
-          "condition": {
-            "colorScheme": "dark"
-          },
-          "changes": {
-            "color": "69, 133, 136"
+            "color": "80, 158, 247"
           }
         }
       ],
       "abstract": [
         {
           "changes": {
-            "color": "152, 151, 26"
+            "color": "0, 153, 153"
           }
         }
       ],
-      "related": [
+      "check": [
         {
           "changes": {
-            "icon": "lucide-arrow-up-down",
-            "color": "211, 134, 155"
-          }
-        }
-      ],
-      "link": [
-        {
-          "changes": {
-            "icon": "link",
-            "color": "142, 192, 124"
-          }
-        }
-      ],
-      "cite": [
-        {
-          "changes": {}
-        },
-        {
-          "condition": {
-            "colorScheme": "light"
-          },
-          "changes": {
-            "color": "100, 98, 98"
-          }
-        },
-        {
-          "condition": {
-            "colorScheme": "dark"
-          },
-          "changes": {
-            "color": "0, 0, 0"
-          }
-        }
-      ],
-      "authors": [
-        {
-          "changes": {
-            "color": "251, 73, 52"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "changes": {
-            "icon": "lucide-key",
-            "color": "84, 43, 233"
-          }
-        }
-      ],
-      "hypothesis": [
-        {
-          "changes": {
-            "icon": "question-mark-glyph",
-            "color": "69, 133, 136"
-          }
-        }
-      ],
-      "methodology": [
-        {
-          "changes": {
-            "icon": "lucide-wrench",
-            "color": "254, 128, 25"
-          }
-        }
-      ],
-      "results": [
-        {
-          "changes": {
-            "icon": "lucide-trophy",
-            "color": "250, 189, 47"
-          }
-        }
-      ],
-      "summary": [
-        {
-          "changes": {
-            "icon": "lucide-clipboard-list",
-            "color": "235, 219, 178"
-          }
-        }
-      ],
-      "result": [
-        {
-          "changes": {
-            "icon": "lucide-trophy",
-            "color": "250, 189, 47"
-          }
-        }
-      ],
-      "context": [
-        {
-          "changes": {
-            "icon": "lucide-brain-circuit",
-            "color": "142, 192, 124"
-          }
-        }
-      ],
-      "significance": [
-        {
-          "changes": {
-            "icon": "lucide-book-open",
-            "color": "142, 192, 124"
-          }
-        }
-      ],
-      "todoist": [
-        {
-          "changes": {
-            "icon": "lucide-check-square"
-          }
-        },
-        {
-          "condition": {
-            "colorScheme": "light"
-          },
-          "changes": {}
-        },
-        {
-          "condition": {
-            "colorScheme": "dark"
-          },
-          "changes": {
-            "color": "204, 36, 29"
+            "icon": "lucide-tag",
+            "color": "181, 183, 186"
           }
         }
       ]

@@ -4,62 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "9fb505acc465db17",
+        "id": "e939db054efbe09e",
         "type": "tabs",
         "children": [
           {
-            "id": "af03745329fde849",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "📌 KANBAN - TO DO LIST.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "📌 KANBAN - TO DO LIST"
-            }
-          },
-          {
-            "id": "c887aba98bae9fb1",
+            "id": "03aadaf159487461",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. TUTORIAL - Write notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01. TUTORIAL - Write notes"
-            }
-          },
-          {
-            "id": "95eb0e3b66b896f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04. TUTORIAL - Automatically save vault on Github.md",
+                "file": "KANBAN/Correction données.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "04. TUTORIAL - Automatically save vault on Github"
+              "title": "Correction données"
+            }
+          },
+          {
+            "id": "0cf3cac755a19a78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📐STATISTIC & CODE/brms.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "brms"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +50,7 @@
       {
         "id": "12b46f1d88d864f2",
         "type": "tabs",
-        "dimension": 68.31983805668015,
+        "dimension": 77.06422018348624,
         "children": [
           {
             "id": "0029cda13af36f7b",
@@ -79,12 +58,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CMR",
-                "matchingCase": false,
-                "explainSearch": true,
+                "query": "case_when",
+                "matchingCase": true,
+                "explainSearch": false,
                 "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical"
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -106,19 +85,19 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "66b043fa8d3225b1",
         "type": "tabs",
-        "dimension": 31.680161943319842,
+        "dimension": 22.935779816513765,
         "children": [
           {
             "id": "72933cd945f2f914",
@@ -134,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 250.5
   },
   "right": {
     "id": "d488d831c3a62677",
@@ -143,19 +122,21 @@
       {
         "id": "7e86dd62be2ccb99",
         "type": "tabs",
-        "dimension": 39.58785249457701,
+        "dimension": 42.06349206349207,
         "children": [
           {
-            "id": "0ea0048bc809f2f5",
+            "id": "480ec4370a94274b",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "outline",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "📐STATISTIC & CODE/brms.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "icon": "lucide-list",
+              "title": "Outline of brms"
             }
           },
           {
@@ -164,49 +145,42 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
-            "id": "37cb468e8f7b17ff",
+            "id": "87bc4cd1e0b862e9",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
-            "id": "480ec4370a94274b",
+            "id": "f694f1c6255822f4",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "markdown",
               "state": {
-                "file": "📌 KANBAN - TO DO LIST.md"
+                "file": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Kruuk & Hadfield, 2007).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               },
-              "icon": "lucide-list",
-              "title": "Outline of 📌 KANBAN - TO DO LIST"
+              "icon": "lucide-file",
+              "title": "(Kruuk & Hadfield, 2007)"
             }
           },
           {
-            "id": "a1dfb16ff2b25561",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "3fed6882a4fb235b",
+            "id": "8b7262e8965e1b57",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖 JOURNAL/📌 TO DO LIST.md",
+                "file": "KANBAN/Pédigrée génétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,61 +190,102 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 📌 TO DO LIST"
+              "title": "Backlinks for Pédigrée génétique"
             }
           },
           {
-            "id": "7a1c237ee035bf57",
+            "id": "e6e973769bda8c05",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖 JOURNAL/📌 TO DO LIST.md",
+                "file": "📰 Redaction/Redaction - introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 📌 TO DO LIST"
+              "title": "Outgoing links from Redaction - introduction"
             }
           },
           {
-            "id": "87bc4cd1e0b862e9",
+            "id": "d7e32d9a3c901fec",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "ReferenceListView",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "quote-glyph",
+              "title": "References"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "9ca924f79b85a124",
-        "type": "tabs",
-        "dimension": 60.412147505423,
-        "children": [
+          },
           {
-            "id": "0b37c0fc3366d6b2",
+            "id": "f823bfb9f1ea1463",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
+      },
+      {
+        "id": "50acc559d328c3eb",
+        "type": "tabs",
+        "dimension": 57.93650793650793,
+        "children": [
+          {
+            "id": "0ea0048bc809f2f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "37cb468e8f7b17ff",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "9a7d2a692bde7dd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📌 TO DO LIST/To do list.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "To do list"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 420.5,
-    "collapsed": true
+    "width": 541.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -279,61 +294,64 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-git:Open Git source control": false,
       "latex-ocr:LatexOCR": false,
       "obsidian-kanban:Create new board": false,
+      "obisidian-note-linker:Note Linker": false,
+      "omnisearch:Omnisearch": false,
       "periodic-notes:Open today": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95eb0e3b66b896f7",
+  "active": "0cf3cac755a19a78",
   "lastOpenFiles": [
-    "02. TUTORIAL - Import articles from ZOTERO.md",
-    "01. TUTORIAL - Write notes.md",
-    "04. TUTORIAL - Automatically save vault on Github.md",
-    "03. TUTORIAL - Organise tasks with Kanban.md",
-    "image/Pasted image 20251006170249.png",
-    "image/Pasted image 20251006170100.png",
-    "📌 KANBAN - TO DO LIST.md",
-    "image/Pasted image 20251006163556.png",
-    "image/Pasted image 20251006163125.png",
-    "04. TUTORIAL - Citation dans le texte.md",
+    "📐STATISTIC & CODE/R random astuces.md",
+    "📌 TO DO LIST/To do list.md",
+    "📐STATISTIC & CODE/brms.md",
+    "KANBAN/Correction données.md",
+    "TRAVAUX BDD.md",
+    "📐STATISTIC & CODE/prior in MCMCglmm.md",
+    "📌 TO DO LIST/📌 Thèse.md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Plard et al., 2021).md",
+    "EXCALIDRAW/schema_simulation bv animal model.md",
+    "EXCALIDRAW/schema_procedure_analyse_pedigree_genetique.md",
+    "EXCALIDRAW/schema_compute_fecondity.excalidraw.md",
+    "EXCALIDRAW/schema_summary_article_1.excalidraw.md",
+    "📐STATISTIC & CODE/Model selection.md",
+    "📐STATISTIC & CODE/Mixed model.md",
+    "Untitled.md",
+    "📌 TO DO LIST/📌 Administratif.md",
+    "🦌 CERVUS SOFTWARE/Tutoriel - Principe d'inférence.md",
+    "🦌 CERVUS SOFTWARE/CERVUS - Tester la validité de l'analyse.md",
+    "🔨 TEMPLATE/zotero_article_template.md",
     "👩🏽‍🔬 LITTERATURE_NOTES/📈 DATAVIEW_ZOTERO.md",
-    "Kanban notes/Data analysis of X.md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allainé & Theuriau, 2004).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Teplitsky & Millien, 2014).md",
-    "image/Pasted image 20250127145648.png",
-    "image/Pasted image 20250310192206.png",
-    "Pasted image 20250604090438.png",
-    "Pasted image 20250604085504.png",
-    "Kanban notes/An important task.md",
-    "Kanban notes",
-    "Formations.md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Teplitsky & Millien, 2014)/image-undefined-x66-y612.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Teplitsky & Millien, 2014)/image-5-x68-y81.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Teplitsky & Millien, 2014)",
-    "library_zotero.json",
-    "My Library.json",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Matteo et al., 2025).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Canale et al., 2016).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Bonnet et al., 2017).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Berger et al., 2018).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Arnold et al., 1991).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Moore et al., 2019).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Lardy et al., 2015).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Hadfield, 2008).md",
-    "FORMATIONS/CMR - 03-10-2025.md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Matteo et al., 2025)",
-    "FORMATIONS",
-    "🎇THESE/🤦🏽‍♂️ Questions thèse.md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Tafani et al., 2013).md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Tafani et al., 2013)",
-    "🎇THESE/🎇 IDEES THESE.md",
-    "📖 JOURNAL/📌 TO DO LIST.md",
-    "BIBLIOTHEQUE_ZOTERO.json",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Thomson et al., 2017).md",
+    "📕 GLOSSAIRE/evolvability.md",
+    "📕 GLOSSAIRE/théorie de l'information.md",
+    "📕 GLOSSAIRE/anagénèse.md",
+    "notefff.md",
+    "📕 GLOSSAIRE/entropy.md",
+    "IMAGE/Pasted image 20251227124348.png",
+    "IMAGE/Pasted image 20251227111824.png",
+    "IMAGE/Pasted image 20251227111758.png",
+    "IMAGE/Pasted image 20251227111647.png",
+    "IMAGE/Pasted image 20251227111613.png",
+    "IMAGE/Pasted image 20251227111549.png",
+    "IMAGE/Pasted image 20251227111511.png",
+    "IMAGE/Pasted image 20251227111440.png",
+    "IMAGE/Pasted image 20251217125927.png",
+    "IMAGE/Pasted Image 20251216212133_844.png",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Stinchcombe et al., 2002)",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Santostefano et al., 2024)",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Parmesan, 2006)",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Lane et al., 2019)",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Jebb et al., 2021)",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Franklin et al., 2017)",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Cohas et al., 2006)",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Briau et al., 2025)",
+    "🦫 RANDOM MARMOTTE FACT",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Mittell & Morrissey, 2024)",
     "Untitled.canvas",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Bichet et al., 2016)",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Arnold et al., 1991)",
+    "Mesurer la sélection.canvas",
     "Schémas modèles et paramètres calculés.canvas",
     "👩🏽‍🔬 LITTERATURE_NOTES/0.Article to read.canvas"
   ]
