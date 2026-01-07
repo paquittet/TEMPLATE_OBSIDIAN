@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "(Teplitsky & Millien, 2014)",
+      "path": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Teplitsky & Millien, 2014).md"
+    },
+    {
+      "basename": "image-7-x58-y63",
+      "path": "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Allainé & Theuriau, 2004)/image-7-x58-y63.png"
+    },
+    {
+      "basename": "image-undefined-x53-y601",
+      "path": "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Allainé & Theuriau, 2004)/image-undefined-x53-y601.png"
+    },
+    {
+      "basename": "(Allainé & Theuriau, 2004)",
+      "path": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allainé & Theuriau, 2004).md"
+    },
+    {
       "basename": "brms",
       "path": "📐STATISTIC & CODE/brms.md"
     },
@@ -63,22 +79,6 @@
     {
       "basename": "📌 Administratif",
       "path": "📌 TO DO LIST/📌 Administratif.md"
-    },
-    {
-      "basename": "Tutoriel - Principe d'inférence",
-      "path": "🦌 CERVUS SOFTWARE/Tutoriel - Principe d'inférence.md"
-    },
-    {
-      "basename": "CERVUS - Tester la validité de l'analyse",
-      "path": "🦌 CERVUS SOFTWARE/CERVUS - Tester la validité de l'analyse.md"
-    },
-    {
-      "basename": "zotero_article_template",
-      "path": "🔨 TEMPLATE/zotero_article_template.md"
-    },
-    {
-      "basename": "📈 DATAVIEW_ZOTERO",
-      "path": "👩🏽‍🔬 LITTERATURE_NOTES/📈 DATAVIEW_ZOTERO.md"
     }
   ],
   "omittedPaths": [],

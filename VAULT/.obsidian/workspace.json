@@ -13,27 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KANBAN/Correction données.md",
+                "file": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Teplitsky & Millien, 2014).md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Correction données"
+              "title": "(Teplitsky & Millien, 2014)"
             }
           },
           {
             "id": "0cf3cac755a19a78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Allainé & Theuriau, 2004)/image-7-x58-y63.png"
+              },
+              "icon": "lucide-image",
+              "title": "image-7-x58-y63"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "66b043fa8d3225b1",
@@ -125,12 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Teplitsky & Millien, 2014).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of (Teplitsky & Millien, 2014)"
             }
           },
           {
@@ -268,7 +271,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 541.5
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,8 +294,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0cf3cac755a19a78",
+  "active": "03aadaf159487461",
   "lastOpenFiles": [
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Allainé & Theuriau, 2004)/image-7-x58-y63.png",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Allainé & Theuriau, 2004)/image-undefined-x53-y601.png",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allainé & Theuriau, 2004).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Teplitsky & Millien, 2014).md",
     "📐STATISTIC & CODE/R random astuces.md",
     "📌 TO DO LIST/To do list.md",
     "📐STATISTIC & CODE/brms.md",
@@ -316,9 +323,6 @@
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Thomson et al., 2017).md",
     "📕 GLOSSAIRE/evolvability.md",
     "📕 GLOSSAIRE/théorie de l'information.md",
-    "📕 GLOSSAIRE/anagénèse.md",
-    "notefff.md",
-    "📕 GLOSSAIRE/entropy.md",
     "IMAGE/Pasted image 20251227124348.png",
     "IMAGE/Pasted image 20251227111824.png",
     "IMAGE/Pasted image 20251227111758.png",
@@ -328,7 +332,6 @@
     "IMAGE/Pasted image 20251227111511.png",
     "IMAGE/Pasted image 20251227111440.png",
     "IMAGE/Pasted image 20251217125927.png",
-    "IMAGE/Pasted Image 20251216212133_844.png",
     "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Stinchcombe et al., 2002)",
     "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Santostefano et al., 2024)",
     "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Parmesan, 2006)",

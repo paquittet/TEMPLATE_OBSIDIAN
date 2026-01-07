@@ -32,22 +32,6 @@ body {
 
 
 
-/* ============================================================
-   2. TEXTE EN GRAS
-   ============================================================ */
-
-/* Reading View = référence */
-.markdown-reading-view strong,
-.markdown-preview-view strong {
-  color: white;
-  font-weight: 900;
-}
-
-/* Live Preview (équivalent du Reading View) */
-.cm-content .cm-strong {
-  color: white !important;
-  font-weight: 900 !important;
-}
 
 
 
