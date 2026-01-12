@@ -38,7 +38,7 @@ status:: {{ status }}
 
 # {{title}}
 
-**Fiche de lecture**: {% set authorCount = creators | length %} {% if authorCount == 1 %} [[👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_({{creators[0].lastName}}, {{date | format("YYYY")}})]] {% elif authorCount == 2 %} [[👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_({{creators[0].lastName}} & {{creators[1].lastName}}, {{date | format("YYYY")}})]] {% else %} [[👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_({{creators[0].lastName}} et al., {{date | format("YYYY")}})]] {% endif %}
+**Fiche de lecture**: {% set authorCount = creators | length %} {% if authorCount == 1 %} [[👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_({{creators[0].lastName}}, {{date | format("YYYY")}})_{{citekey}}]] {% elif authorCount == 2 %} [[👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_({{creators[0].lastName}} & {{creators[1].lastName}}, {{date | format("YYYY")}})_{{citekey}}]] {% else %} [[👩🏽‍🔬 LITTERATURE_NOTES/READING_SHEET/RS_({{creators[0].lastName}} et al., {{date | format("YYYY")}})_{{citekey}}]] {% endif %}
 
 **Lien Zotero**:: {{pdfZoteroLink}}
 

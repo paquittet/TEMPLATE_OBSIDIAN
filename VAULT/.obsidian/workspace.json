@@ -13,25 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Teplitsky & Millien, 2014).md",
+                "file": "01. TUTORIAL - Writing notes.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(Teplitsky & Millien, 2014)"
-            }
-          },
-          {
-            "id": "0cf3cac755a19a78",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Allainé & Theuriau, 2004)/image-7-x58-y63.png"
-              },
-              "icon": "lucide-image",
-              "title": "image-7-x58-y63"
+              "title": "01. TUTORIAL - Writing notes"
             }
           }
         ]
@@ -127,13 +115,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Teplitsky & Millien, 2014).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of (Teplitsky & Millien, 2014)"
+              "title": "Outline"
             }
           },
           {
@@ -224,7 +211,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "50acc559d328c3eb",
@@ -255,23 +243,12 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "9a7d2a692bde7dd7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 385.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,15 +267,30 @@
       "obsidian-kanban:Create new board": false,
       "obisidian-note-linker:Note Linker": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03aadaf159487461",
+  "active": "0ea0048bc809f2f5",
   "lastOpenFiles": [
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Allainé & Theuriau, 2004)/image-7-x58-y63.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Allainé & Theuriau, 2004)/image-undefined-x53-y601.png",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allainé & Theuriau, 2004).md",
+    "📌 KANBAN - TO DO LIST.md",
+    "01. TUTORIAL - Writing notes.md",
+    "04. TUTORIAL - Automatically save vault on Github.md",
+    "02. TUTORIAL - Importing articles from ZOTERO.md",
+    "03. TUTORIAL - Organising tasks with Kanban.md",
+    "image/Pasted image 20250310192425.png",
+    "image/Pasted image 20250310192206.png",
+    "image/Pasted image 20250127145648.png",
+    "image/Pasted image 20250310192344.png",
+    "image/Pasted image 20250310192540.png",
+    "image/Pasted image 20250310192741.png",
+    "image/Pasted image 20250310192745.png",
+    "image/Pasted image 20251006163125.png",
+    "image/Pasted image 20251006163556.png",
+    "image/Pasted image 20251006170100.png",
+    "🔨 TEMPLATE/zotero_article_template.md",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Teplitsky & Millien, 2014).md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Allainé & Theuriau, 2004).md",
     "📐STATISTIC & CODE/R random astuces.md",
     "📌 TO DO LIST/To do list.md",
     "📐STATISTIC & CODE/brms.md",
@@ -317,20 +309,6 @@
     "📌 TO DO LIST/📌 Administratif.md",
     "🦌 CERVUS SOFTWARE/Tutoriel - Principe d'inférence.md",
     "🦌 CERVUS SOFTWARE/CERVUS - Tester la validité de l'analyse.md",
-    "🔨 TEMPLATE/zotero_article_template.md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/📈 DATAVIEW_ZOTERO.md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Thomson et al., 2017).md",
-    "📕 GLOSSAIRE/evolvability.md",
-    "📕 GLOSSAIRE/théorie de l'information.md",
-    "IMAGE/Pasted image 20251227124348.png",
-    "IMAGE/Pasted image 20251227111824.png",
-    "IMAGE/Pasted image 20251227111758.png",
-    "IMAGE/Pasted image 20251227111647.png",
-    "IMAGE/Pasted image 20251227111613.png",
-    "IMAGE/Pasted image 20251227111549.png",
-    "IMAGE/Pasted image 20251227111511.png",
-    "IMAGE/Pasted image 20251227111440.png",
-    "IMAGE/Pasted image 20251217125927.png",
     "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Stinchcombe et al., 2002)",
     "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Santostefano et al., 2024)",
     "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Parmesan, 2006)",
