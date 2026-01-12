@@ -290,8 +290,7 @@
       "obsidian-kanban:Create new board": false,
       "obisidian-note-linker:Note Linker": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "03aadaf159487461",
