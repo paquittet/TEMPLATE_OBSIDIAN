@@ -17,7 +17,8 @@
     "justify_text",
     "image_size_default",
     "image_features",
-    "remove_strikethrough_for_checkboxes"
+    "remove_strikethrough_for_checkboxes",
+    "callouts-custom"
   ],
   "accentColor": "#80a2b7",
   "textFontFamily": "Cambria Math",

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "04. TUTORIAL - Automatically save vault on Github",
-      "path": "VAULT/04. TUTORIAL - Automatically save vault on Github.md"
+      "basename": "response to climate change",
+      "path": "🌍 ARTICLE 1/response to climate change.md"
+    },
+    {
+      "basename": "(Dausmann & Cooper, 2026)_dausmannarehibernatorstoast2026",
+      "path": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Dausmann & Cooper, 2026)_dausmannarehibernatorstoast2026.md"
+    },
+    {
+      "basename": "(Satarkar et al., 2026)_satarkardevelopmentalstagespecificresponses2026",
+      "path": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Satarkar et al., 2026)_satarkardevelopmentalstagespecificresponses2026.md"
     },
     {
       "basename": "To do list",
@@ -13,20 +21,8 @@
       "path": "👩🏽‍🔬 LITTERATURE_NOTES/📈 DATAVIEW_ZOTERO.md"
     },
     {
-      "basename": "response to climate change",
-      "path": "🌍 ARTICLE 1/response to climate change.md"
-    },
-    {
       "basename": "body size",
       "path": "🌍 ARTICLE 1/body size.md"
-    },
-    {
-      "basename": "(Satarkar et al., 2026)_satarkardevelopmentalstagespecificresponses2026",
-      "path": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Satarkar et al., 2026)_satarkardevelopmentalstagespecificresponses2026.md"
-    },
-    {
-      "basename": "(Dausmann & Cooper, 2026)_dausmannarehibernatorstoast2026",
-      "path": "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Dausmann & Cooper, 2026)_dausmannarehibernatorstoast2026.md"
     },
     {
       "basename": "Article 1",
@@ -79,6 +75,10 @@
     {
       "basename": "moyenne d'une loi log normale",
       "path": "MATHS/moyenne d'une loi log normale.md"
+    },
+    {
+      "basename": "Logiciels - sites utiles",
+      "path": "UTILITAIRES/Logiciels - sites utiles.md"
     }
   ],
   "omittedPaths": [],

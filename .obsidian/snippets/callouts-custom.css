@@ -5,6 +5,14 @@
   border: 1px solid rgba(var(--callout-color), 0.5);
 }
 
+/* Abstract / Abstract callout */
+.callout[data-callout="abstract"] {
+  --callout-color: 0, 153, 153; /* aqua blue */
+  --callout-icon: notepad-text;
+    border: 1px solid rgba(var(--callout-color), 0.5);
+}
+
+
 /* Short Summary / Abstract callout */
 .callout[data-callout="related"] {
   --callout-color: 0, 153, 153; /* aqua blue */
@@ -19,8 +27,22 @@
     border: 1px solid rgba(var(--callout-color), 0.5);
 }
 
+/* Info callout */
+.callout[data-callout="info"] {
+  --callout-color: 102, 102, 255; /* blue */
+  --callout-icon: tag;
+    border: 1px solid rgba(var(--callout-color), 0.5);
+}
+
 /* Keywords callout */
 .callout[data-callout="keywords"] {
+  --callout-color: 102, 102, 255; /* blue */
+  --callout-icon: tag;
+    border: 1px solid rgba(var(--callout-color), 0.5);
+}
+
+/* Keywords callout */
+.callout[data-callout="check"] {
   --callout-color: 102, 102, 255; /* blue */
   --callout-icon: tag;
     border: 1px solid rgba(var(--callout-color), 0.5);

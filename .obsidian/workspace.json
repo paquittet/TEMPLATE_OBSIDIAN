@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VAULT/04. TUTORIAL - Automatically save vault on Github.md",
+                "file": "👩🏽‍🔬 LITTERATURE_NOTES/📈 DATAVIEW_ZOTERO.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "04. TUTORIAL - Automatically save vault on Github"
+              "title": "📈 DATAVIEW_ZOTERO"
             }
           },
           {
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📌 TO DO LIST/To do list.md",
+                "file": "🌍 ARTICLE 1/response to climate change.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of To do list"
+              "title": "Outline of response to climate change"
             }
           },
           {
@@ -201,8 +201,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -211,8 +211,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -254,8 +254,8 @@
             "state": {
               "type": "ReferenceListView",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "ReferenceListView"
+              "icon": "quote-glyph",
+              "title": "References"
             }
           }
         ]
@@ -286,18 +286,23 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
             "id": "9a7d2a692bde7dd7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "📌 TO DO LIST/To do list.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "To do list"
             }
           }
         ],
@@ -309,8 +314,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "bases:Create new base": false,
       "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -318,25 +325,24 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
+      "callout-manager:Insert Callout": false,
       "latex-ocr:LatexOCR": false,
       "obsidian-kanban:Create new board": false,
       "obisidian-note-linker:Note Linker": false,
       "omnisearch:Omnisearch": false,
-      "callout-manager:Insert Callout": false
+      "periodic-notes:Open today": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "967a64a0df28b1ad",
+  "active": "897bade76a6fb3d6",
   "lastOpenFiles": [
-    "👩🏽‍🔬 LITTERATURE_NOTES/📈 DATAVIEW_ZOTERO.md",
-    "🌍 ARTICLE 1/response to climate change.md",
-    "🌍 ARTICLE 1/body size.md",
-    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Satarkar et al., 2026)_satarkardevelopmentalstagespecificresponses2026.md",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Dausmann & Cooper, 2026)_dausmannarehibernatorstoast2026.md",
-    "🌍 ARTICLE 1/Article 1.md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Satarkar et al., 2026)_satarkardevelopmentalstagespecificresponses2026.md",
+    "🌍 ARTICLE 1/response to climate change.md",
     "📌 TO DO LIST/To do list.md",
+    "👩🏽‍🔬 LITTERATURE_NOTES/📈 DATAVIEW_ZOTERO.md",
+    "🌍 ARTICLE 1/body size.md",
+    "🌍 ARTICLE 1/Article 1.md",
     "👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS/(Boutin & Lane, 2014)_boutinclimatechangemammals2014.md",
     "🪨 OBSIDIAN FOR OBSIDIAN/DATAVIEW_CHEATSHEET.md",
     "🪨 OBSIDIAN FOR OBSIDIAN/Cheatsheet DATAVIEW.md",
@@ -374,4 +380,11 @@
     "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Yom-Tov et al., 2010)_yom-tovtemperaturetrendsrecent2010",
     "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wolf & Wade, 2009)_wolfwhatarematernal2009",
     "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wilson et al., 2007)_wilsonquantitativegeneticsgrowth2007",
-    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wilson et al., 2006)_wilsonEnvironmentalCouplingSelectio
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wilson et al., 2006)_wilsonEnvironmentalCouplingSelection2006",
+    "👩🏽‍🔬 LITTERATURE_NOTES/MEDIA/(Wells et al., 2022)_wellslifehistoryconsequences2022",
+    "Untitled.canvas",
+    "Mesurer la sélection.canvas",
+    "Schémas modèles et paramètres calculés.canvas",
+    "👩🏽‍🔬 LITTERATURE_NOTES/0.Article to read.canvas"
+  ]
+}
