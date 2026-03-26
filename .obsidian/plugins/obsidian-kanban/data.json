@@ -1,0 +1,80 @@
+{
+  "new-note-folder": "Kanban",
+  "move-dates": false,
+  "full-list-lane-width": true,
+  "tag-sort": [
+    {
+      "tag": "#todo/admin"
+    },
+    {
+      "tag": "#todo/lecture"
+    },
+    {
+      "tag": "#todo/article"
+    },
+    {
+      "tag": "#todo/thèse"
+    }
+  ],
+  "tag-colors": [
+    {
+      "tagKey": "#todo/admin",
+      "color": "rgba(0, 0, 0, 1)",
+      "backgroundColor": "rgba(0, 0, 0, 0.1)"
+    },
+    {
+      "tagKey": "#todo/lecture",
+      "color": "rgba(63, 90, 240, 1)",
+      "backgroundColor": "rgba(102, 45, 235, 0.1)"
+    },
+    {
+      "tagKey": "#todo/article",
+      "color": "rgba(61, 161, 54, 1)",
+      "backgroundColor": "rgba(0, 185, 9, 0.1)"
+    },
+    {
+      "tagKey": "#todo/thèse",
+      "color": "rgba(255, 7, 7, 1)",
+      "backgroundColor": "rgba(247, 36, 36, 0.1)"
+    }
+  ],
+  "move-tags": true,
+  "date-colors": [
+    {
+      "distance": 1,
+      "unit": "weeks",
+      "direction": "after",
+      "backgroundColor": "rgba(89, 191, 56, 0.19)",
+      "isAfter": true
+    },
+    {
+      "isToday": false,
+      "distance": 1,
+      "unit": "weeks",
+      "direction": "after",
+      "backgroundColor": "rgba(186, 39, 39, 0.2)"
+    },
+    {
+      "isToday": false,
+      "distance": 2,
+      "unit": "weeks",
+      "direction": "after",
+      "backgroundColor": "rgba(255, 164, 28, 0.27)"
+    },
+    {
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "backgroundColor": "rgba(255, 0, 0, 1)",
+      "color": "rgba(255, 255, 255, 1)",
+      "isBefore": true
+    }
+  ],
+  "append-archive-date": false,
+  "show-checkboxes": false,
+  "hide-card-count": false,
+  "show-relative-date": false,
+  "date-display-format": "DD MMMM",
+  "date-format": "DD-MMMM-YYYY",
+  "archive-with-date": false
+}

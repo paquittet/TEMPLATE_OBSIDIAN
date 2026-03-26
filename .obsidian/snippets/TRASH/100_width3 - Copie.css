@@ -1,0 +1,200 @@
+/* ============================================================
+   Largeur unifiée et marges identiques partout
+   ============================================================ */
+
+/* Désactive les limites intégrées d’Obsidian */
+body {
+  --file-line-width: 100% !important;
+}
+
+/* ------- Live Preview + Source Mode (CodeMirror) ------- */
+.cm-content .cm-line,
+.cm-content .HyperMD-list-line,
+.cm-content .HyperMD-list-bullet,
+.cm-content .HyperMD-list-number,
+.cm-content .HyperMD-quote {
+    text-align: justify !important;
+    text-justify: inter-word !important;
+}
+
+/* Conteneur principal : Reading View, Preview, Source */
+.markdown-preview-view,
+.markdown-reading-view,
+.is-readable-line-width,
+.cm-s-obsidian { /* Ajout pour le Source Mode */
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 auto !important;
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+    box-sizing: border-box !important;
+}
+
+/* Éléments internes (paragraphes, listes, etc.) */
+.markdown-preview-view p,
+.markdown-preview-view ul,
+.markdown-preview-view ol,
+.markdown-preview-view li,
+.markdown-reading-view p,
+.markdown-reading-view ul,
+.markdown-reading-view ol,
+.markdown-reading-view li,
+.cm-content .cm-line,
+.cm-content .HyperMD-list-line,
+.cm-content .HyperMD-list-bullet,
+.cm-content .HyperMD-list-number,
+.cm-content .HyperMD-quote,
+.is-readable-line-width {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 auto !important;
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+    box-sizing: border-box !important;
+}
+
+/* Éléments internes (paragraphes, listes, etc.) */
+.markdown-preview-view ol,
+.markdown-reading-view ol,
+.cm-content .cm-line,
+.cm-content .HyperMD-list-line,
+.cm-content .HyperMD-list-bullet,
+.cm-content .HyperMD-list-number,
+.cm-content .HyperMD-quote,
+.is-readable-line-width {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 auto !important;
+    padding-left: 80px !important;
+    padding-right: 10px !important;
+    box-sizing: border-box !important;
+}
+
+/* Éléments internes (paragraphes, listes, etc.) */
+.markdown-preview-view ul,
+.markdown-reading-view ul,
+.cm-content .cm-line,
+.cm-content .HyperMD-list-line,
+.cm-content .HyperMD-list-bullet,
+.cm-content .HyperMD-list-number,
+.cm-content .HyperMD-quote,
+.is-readable-line-width {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 auto !important;
+    padding-left: 20px !important;
+    padding-right: 10px !important;
+    box-sizing: border-box !important;
+}
+
+
+/* Empêcher certains thèmes de rétrécir la zone */
+.workspace-leaf-content,
+.workspace-split {
+    max-width: 100% !important;
+}
+
+
+
+/* =========================
+   Listes uniformes
+   ========================= */
+
+/* Conteneur pour la liste */
+.markdown-preview-view ul,
+.markdown-preview-view ol,
+.markdown-reading-view ul,
+.markdown-reading-view ol,
+.cm-content .HyperMD-list-line,
+.cm-content .HyperMD-list-bullet,
+.cm-content .HyperMD-list-number {
+    padding-left: 100px !important; /* indentation générale identique */
+    margin-left: 0 !important;
+    box-sizing: border-box !important;
+}
+
+/* Texte des items */
+.markdown-preview-view li,
+.markdown-reading-view li,
+.cm-content .HyperMD-list-line {
+    padding-left: 0 !important; /* pas de double padding à l’intérieur */
+    text-indent: 10px !important;
+    display: list-item !important;
+}
+
+/* Checkbox : aligné comme le texte, pas comme bullet */
+.markdown-preview-view input[type="checkbox"],
+.markdown-reading-view input[type="checkbox"],
+.cm-content input[type="checkbox"] {
+    margin-left: -50px !important; /* même indentation que le texte */
+}
+
+/* Numéros et bullets : même espacement entre le symbole et le texte */
+.cm-content .HyperMD-list-bullet,
+.cm-content .HyperMD-list-number {
+    margin-right: 10px !important; /* espace entre bullet/numéro et texte */
+}
+
+
+
+
+
+
+/* ============================================================
+   CALLOUTS — même taille dans tous les modes
+   ============================================================ */
+
+.callout {
+    width: 90% !important;          /* taille identique partout */
+    margin-left: auto !important;
+    margin-right: auto !important;
+    box-sizing: border-box !important;
+    border: 1px solid rgba(var(--callout-color), 0.5);
+
+}
+
+/* Live preview callouts */
+.cm-content .callout,
+.cm-contentContainer .callout {
+    width: 90% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    border: 1px solid rgba(var(--callout-color), 0.5);
+
+}
+
+/* ============================================================
+   IMAGES — propre, sans déformation
+   ============================================================ */
+
+img {
+    display: block;
+    margin: 0.8em auto;
+    max-width: 100%;
+    height: auto;
+    width: auto !important;   /* empêche l'étirement */
+}
+
+/* Images dans callouts */
+.callout-content img {
+    display: block;
+    margin: 0.8em auto;
+    max-width: 100%;
+    height: auto;
+}
+
+/* ============================================================
+   TABLES
+   ============================================================ */
+
+.markdown-rendered table {
+    margin: 1em auto;
+    max-width: 100%;
+    text-align: center;
+}
+
+.table-view-table > tbody > tr > td {
+    max-width: 90%;
+}
+
+

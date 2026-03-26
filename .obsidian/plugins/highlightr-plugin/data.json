@@ -1,0 +1,30 @@
+{
+  "highlighterStyle": "floating",
+  "highlighterMethods": "inline-styles",
+  "highlighters": {
+    "Pink": "#FFB8EBA6",
+    "Cyan": "#ABF7F7A6",
+    "aqua": "#2A5BBDA6",
+    "Orange": "#F8CC9B",
+    "Blue": "#97D4F2",
+    "magenta": "#F2B7F7",
+    "Green": "#AFD99B",
+    "Red": "#FFB3B3",
+    "Grey": "#D5D5D5",
+    "Purple": "#D1C7F5",
+    "Yellow": "#FFEC81"
+  },
+  "highlighterOrder": [
+    "Pink",
+    "Cyan",
+    "aqua",
+    "Orange",
+    "Blue",
+    "magenta",
+    "Green",
+    "Red",
+    "Grey",
+    "Purple",
+    "Yellow"
+  ]
+}

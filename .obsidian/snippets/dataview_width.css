@@ -1,0 +1,8 @@
+/* Dataview plus large que la largeur lisible */
+.markdown-preview-view .block-language-dataview,
+.markdown-preview-view .dataview {
+    max-width: 1000px !important;
+    width: 100% !important;
+}
+
+

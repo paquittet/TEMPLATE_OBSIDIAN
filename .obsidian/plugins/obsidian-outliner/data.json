@@ -1,0 +1,12 @@
+{
+  "styleLists": true,
+  "debug": false,
+  "stickCursor": "never",
+  "betterEnter": false,
+  "betterTab": false,
+  "selectAll": true,
+  "listLines": true,
+  "listLineAction": "toggle-folding",
+  "dnd": true,
+  "previousRelease": null
+}

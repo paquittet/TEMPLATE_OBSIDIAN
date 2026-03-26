@@ -1,0 +1,8 @@
+/* Apply red color to 'unread' status in Dataview tables */
+.dataview table td[data-dv-field="Statut"] {
+  color: black;
+}
+
+.dataview table td[data-dv-field="status"]:contains("unread") {
+  color: red !important;
+}
