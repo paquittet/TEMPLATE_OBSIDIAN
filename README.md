@@ -23,3 +23,9 @@ Steps to follow :
 4. Open the downloaded file with Obsidian as 'Vault'
 ![image|10%](https://github.com/user-attachments/assets/ea21fed0-86c4-4759-beb5-3760d42377ff)
 
+<br>
+
+# IMPORTANT
+Since Zotero update to version 8, you might not be able to cite your article using `[@citekey]`. There is a simple solution to solve the problem at : https://forum.obsidian.md/t/obsidian-zotero-workflow-disrupted-with-update-can-no-longer-create-literature-notes-with-citation-plug-in/111468 (see box of user Sunnaq445)
+
+
