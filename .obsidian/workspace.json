@@ -71,15 +71,10 @@
             "id": "897bade76a6fb3d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌍 ARTICLE 1/response to climate change.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "response to climate change"
+              "title": "New tab"
             }
           }
         ],
@@ -294,15 +289,10 @@
             "id": "9a7d2a692bde7dd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📌 TO DO LIST/To do list.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "To do list"
+              "title": "New tab"
             }
           }
         ],
@@ -330,8 +320,7 @@
       "obsidian-kanban:Create new board": false,
       "obisidian-note-linker:Note Linker": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false,
-      "juggl:Juggl global graph": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "897bade76a6fb3d6",
