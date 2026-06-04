@@ -83,8 +83,9 @@ status:: {{ status }}
 > {{abstractNote|replace("  ","")}}  
 > {%- endif -%}.  
 
+
 > [!check]+ Keywords
- keywords:: {% if allTags %} {% for tag in allTags.split(', ') %} #{{tag|replace(" ","_")}} {% endfor %} {% endif %}
+ keywords:: {% if allTags %} {% for tag in allTags.split(', ') %} #{{ tag | lower | replace(" ", "_") | replace("-", "_") }} {% endfor %} {% endif %}
 
 
 <br>

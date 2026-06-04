@@ -1,4 +1,0 @@
-/* Désactive la largeur maximale imposée par Obsidian */
-body {
-  --file-line-width: 100% !important;
-}

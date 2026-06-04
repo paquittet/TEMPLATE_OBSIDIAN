@@ -1,9 +1,0 @@
-{
-  "citationExportFormat": "csl-json",
-  "literatureNoteTitleTemplate": "@{{citekey}}",
-  "literatureNoteFolder": "REMOTE_VAULT/LITTERATURE_NOTES/",
-  "literatureNoteContentTemplate": "---\ncitekey: {{citekey}}\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\ndoi: {{DOI}}\nrevue: {{publisher}}\ncitekey: {{citekey}}\nnote: {{note}}\nurl: {{URL}}\nlien_zotero: {{zoteroSelectURI}}\n---\n\n",
-  "markdownCitationTemplate": "[[@{{citekey}}|{{entry.data.creators.author.[0].lastName}}, {{year}}]]",
-  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "MY_ZOTERO_LIBRARY.json"
-}

@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] [[An important task]]
 	@{26-01-2029} 
 	I have to... because... and send a mail to...
+- [ ] [[Daire ça]]
 
 
 ## In progress
