@@ -4,8 +4,8 @@
   "zoteroGroups": [
     {
       "id": 1,
-      "name": "Ma bibliothèque",
-      "lastUpdate": 1768304480670
+      "name": "My Library",
+      "lastUpdate": 1780578635977
     }
   ],
   "renderCitations": true,
@@ -15,5 +15,5 @@
   "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl",
   "pullFromZotero": true,
   "showCitekeyTooltips": false,
-  "pathToBibliography": "C:\\Users\\quittet\\Documents\\OBSIDIAN_VAULT_THESIS\\BIBLIOTHEQUE_ZOTERO.json"
+  "pathToBibliography": "MY_ZOTERO_LIBRARY.json"
 }

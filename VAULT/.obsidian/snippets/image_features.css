@@ -19,3 +19,28 @@
 .HyperMD-image img[src*="|"] { /* Ajout pour le mode édition */
   width: attr(src, regex('.*\\|([0-9]+).*', 1))px !important;
 }
+
+/* ============================================================
+   IMAGES — propre, sans déformation
+   ============================================================ */
+
+img {
+    display: block !important;
+    margin: 0.8em auto;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Images dans callouts */
+.callout-content img {
+    display: block;
+    margin: 0.8em auto;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Bordure noire pour toutes les images */
+.markdown-preview-view img,
+.markdown-source-view.is-live-preview img {
+  border: 5px solid #525252
+}

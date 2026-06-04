@@ -7,7 +7,6 @@
   "periodic-notes",
   "obsidian-custom-file-extensions-plugin",
   "dataview",
-  "highlightr-plugin",
   "recent-files-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-style-settings",
@@ -20,10 +19,13 @@
   "omnisearch",
   "obsidian-pandoc-reference-list",
   "obsidian-zotero-desktop-connector",
-  "obsidian-citation-plugin",
-  "obsidian-pandoc",
   "obsidian-minimal-settings",
   "callout-manager",
   "obsidian-outliner",
-  "oz-clear-unused-images"
+  "oz-clear-unused-images",
+  "obsidian-citation-plugin",
+  "easy-copy",
+  "obsidian-enhancing-export",
+  "opener",
+  "highlightr-plugin"
 ]

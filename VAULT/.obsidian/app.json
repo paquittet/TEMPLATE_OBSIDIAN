@@ -18,7 +18,7 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 49
+    "downscalePercent": 100
   },
   "spellcheck": true,
   "spellcheckDictionary": [
@@ -28,5 +28,7 @@
     "posterior",
     "priors",
     "- countergradie"
-  ]
+  ],
+  "showUnsupportedFiles": false,
+  "defaultViewMode": "preview"
 }

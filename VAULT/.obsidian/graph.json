@@ -4,19 +4,27 @@
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"👩🏽‍🔬 LITTERATURE_NOTES/ANNOTATIONS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14804245
+      }
+    }
+  ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.927430438211107,
+  "lineSizeMultiplier": 0.521167060944013,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.655514250309789,
+  "repelStrength": 18.877999324096,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.09851018688702289,
+  "linkDistance": 67,
+  "scale": 0.02574767431963946,
   "close": true
 }

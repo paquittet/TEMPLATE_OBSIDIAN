@@ -156,5 +156,14 @@
       ],
       "key": "Numpad0"
     }
+  ],
+  "easy-copy:contextual-copy": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }

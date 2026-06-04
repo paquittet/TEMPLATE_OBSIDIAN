@@ -1,6 +1,8 @@
 {
   "callouts": {
-    "custom": [],
+    "custom": [
+      "objectif"
+    ],
     "settings": {
       "question": [
         {
@@ -28,6 +30,29 @@
           "changes": {
             "icon": "lucide-tag",
             "color": "181, 183, 186"
+          }
+        }
+      ],
+      "objectif": [
+        {
+          "changes": {
+            "icon": "lucide-blend"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "238, 32, 104"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "238, 32, 104"
           }
         }
       ]

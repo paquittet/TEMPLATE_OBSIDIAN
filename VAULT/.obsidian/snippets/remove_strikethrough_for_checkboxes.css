@@ -5,6 +5,7 @@
 .markdown-reading-view ol > li.task-list-item.is-checked {
   text-decoration: none !important; /* Remove strikethrough */
   color: var(--text-muted) !important; /* Slightly lighter text color */
+  opacity: 0.3; /*
 }
 
 /* Ensure strikethrough is also disabled in the edit mode */
@@ -12,4 +13,5 @@
 .markdown-source-view ol > li.task-list-item.is-checked {
   text-decoration: none !important; /* Remove strikethrough */
   color: var(--text-muted) !important; /* Slightly lighter text color */
+  opacity: 0.3; /* 
 }
