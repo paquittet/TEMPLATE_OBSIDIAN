@@ -1,5 +1,5 @@
 {
-  "cssTheme": "",
+  "cssTheme": "Minimal Edge",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "reduce_space_betweet_header",
@@ -11,21 +11,22 @@
     "center_text_canvas",
     "line_beneath_h1",
     "image_size_position",
-    "line_beneath_h1_embeded_title",
     "100_width3",
-    "100_width",
-    "image_size_default",
-    "image_features",
     "remove_strikethrough_for_checkboxes",
+    "line_beneath_h1_embeded_title",
+    "justify_text",
+    "image_features",
+    "image_size_default",
     "callouts-custom",
-    "justify_text"
+    "100_width"
   ],
-  "accentColor": "#80a2b7",
-  "textFontFamily": "Cambria Math",
+  "accentColor": "#436e89",
+  "textFontFamily": "Calibri,Inter,Cambria Math",
   "monospaceFontFamily": "Consolas",
   "interfaceFontFamily": "Calibri",
-  "baseFontSize": 10,
+  "baseFontSize": 18,
   "baseFontSizeAction": true,
   "nativeMenus": false,
-  "showRibbon": false
+  "showRibbon": false,
+  "showViewHeader": false
 }

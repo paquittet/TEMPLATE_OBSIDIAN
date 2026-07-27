@@ -1,0 +1,15 @@
+{
+  "useCustomDestinationFolder": false,
+  "useCustomImageFolderName": false,
+  "destinationFolder": "",
+  "enableImageNaming": false,
+  "enableHeaders": false,
+  "headerSize": "#",
+  "headerExtractionSensitive": 1.2,
+  "removeHeaderDuplicates": false,
+  "imageResolution": 2,
+  "imageSeparator": 0,
+  "insertionMethod": "Procedural",
+  "maxConcurrentPages": 50,
+  "imageType": "png"
+}

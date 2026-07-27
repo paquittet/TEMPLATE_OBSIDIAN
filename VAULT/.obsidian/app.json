@@ -30,5 +30,8 @@
     "- countergradie"
   ],
   "showUnsupportedFiles": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "foldHeading": true,
+  "foldIndent": true,
+  "focusNewTab": true
 }
